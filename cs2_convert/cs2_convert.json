@@ -1,0 +1,2997 @@
+[
+ {
+  "id": 1,
+  "True": "A child with braces is likely to turn down an offer of chewy candy.",
+  "False": "A child with braces would never turn down an offer of chewy candy."
+ },
+ {
+  "id": 2,
+  "True": "James saw Kyle copying off his test, so he asked him twice to stop, then got the teacher involved.",
+  "False": "James saw Kyle copying off his test, so he asked him twice to continue, then got the teacher involved."
+ },
+ {
+  "id": 3,
+  "True": "Since I'm feeling warm, drinking some ice water would help cool me down.",
+  "False": "Since I'm feeling warm, drinking a hot tea would help cool me down."
+ },
+ {
+  "id": 4,
+  "True": "Peter invited his neighbor Jonathan for dinner, it's expected that Jonathan would arrive on time for dinner.",
+  "False": "Peter invited his neighbor Jonathan for dinner, it's expected that Jonathan would arrive on time for lunch."
+ },
+ {
+  "id": 5,
+  "True": "The movie does not start for 3 hours so Tate has time to eat dinner first.",
+  "False": "The movie does not start for 3 hours so Tate does not have time to eat dinner first."
+ },
+ {
+  "id": 6,
+  "True": "Jill is not rational, so I would not believe what she tells me about the virus.",
+  "False": "Jill is rational, so I would believe what she tells me about the virus."
+ },
+ {
+  "id": 7,
+  "True": "Laura is trying to avoid Josh since she owes him a sum of money.",
+  "False": "Laura is trying to avoid Josh since he owes her a sum of money."
+ },
+ {
+  "id": 8,
+  "True": "Gavin went to the mall a few days before Christmas expecting a lot of people, but he was pleasantly surprised to see only a handful of people.",
+  "False": "Gavin went to the mall a few days before Christmas expecting a lot of people, but he was pleasantly surprised to see only thousands of people."
+ },
+ {
+  "id": 9,
+  "True": "If someone tutors you for a test, you will likely score an A.",
+  "False": "If someone tutors you for a test, you will likely score a D."
+ },
+ {
+  "id": 10,
+  "True": "David takes care of his three younger siblings so he spends a lot of time at his house.",
+  "False": "David takes care of his three younger siblings so he spends a lot of time away from his house."
+ },
+ {
+  "id": 11,
+  "True": "If you do not have a drain cleaning tool you could try using a hanger.",
+  "False": "If you do not have a drain cleaning tool you could try using a cord."
+ },
+ {
+  "id": 12,
+  "True": "I am five feet tall, so I can take things from the lower shelves in a supermarket.",
+  "False": "I am five feet tall, so I can take things from the higher shelves in a supermarket."
+ },
+ {
+  "id": 13,
+  "True": "It's 2 pm and the movie is at 4 pm, so I have time to go buy snacks.",
+  "False": "It's 2 pm and the movie is at 2 pm, so I have time to go buy snacks."
+ },
+ {
+  "id": 14,
+  "True": "If I spill water on the floor, I would use my handkerchief to clean it up.",
+  "False": "If I spill water on the floor, I would use my hair to clean it up."
+ },
+ {
+  "id": 15,
+  "True": "Laura got her paper accepted for publication in January. She decided to start final revision on the paper February of the year.",
+  "False": "Laura got her paper accepted for publication in March. She decided to start final revision on the paper February of the year."
+ },
+ {
+  "id": 16,
+  "True": "Robert wanted to watch a movie in the evening show at 7pm, he left the office 30 minutes before 7pm.",
+  "False": "Robert wanted to watch a movie in the evening show at 7pm, he left the office 30 minutes before 8pm."
+ },
+ {
+  "id": 17,
+  "True": "Paula's school is within a ten minute walk, so to get there faster she decided to ride a bike.",
+  "False": "Paula's school is within a ten minute walk, so to get there faster she decided to take a plane."
+ },
+ {
+  "id": 18,
+  "True": "10 people will be coming to the party, so it is very likely that 20 cups should be enough.",
+  "False": "10 people will be coming to the party, so it is very likely that 5 cups should be enough."
+ },
+ {
+  "id": 19,
+  "True": "Collette was leaving her home for 10 days, so she hired a pet sitter",
+  "False": "Collette was leaving her home for an hour, so she hired a pet sitter."
+ },
+ {
+  "id": 20,
+  "True": "As I was too short to reach the top shelf at the grocery store, I asked a taller passerby for help.",
+  "False": "As I was too short to reach the top shelf at the grocery store, I asked a small kid passing by for help."
+ },
+ {
+  "id": 21,
+  "True": "Because Phil received $30 per hour for working over time, he worked 3 overtime hours so he could buy himself a $70 dollar shirt.",
+  "False": "Because Phil received $30 per hour for working over time, he worked 1 overtime hour so he could buy himself a $70 dollar shirt without any savings."
+ },
+ {
+  "id": 22,
+  "True": "The woman had twins, one of whom was born a day after the other.",
+  "False": "The woman had twins, one of whom was born a month after the other."
+ },
+ {
+  "id": 23,
+  "True": "Icicles were dangling from the roof because the attic was too warm.",
+  "False": "Icicles were dangling from the roof because the attic was insulated."
+ },
+ {
+  "id": 24,
+  "True": "Amy went to Seattle during November so she decided to wear multiple layers.",
+  "False": "Amy went Seattle during July so she decided to wear multiple layers."
+ },
+ {
+  "id": 25,
+  "True": "The criminal had only nine minutes to get away after the alarm was sounded, so he made sure the get-away car was just across the street",
+  "False": "The criminal had only nine minutes to get away after the alarm was sounded, so he made sure the get-away car was far from the scene."
+ },
+ {
+  "id": 26,
+  "True": "I left an empty bucket under a leak and the next day the water had risen 10 cm in the bucket, so it will be overflowing in a week.",
+  "False": "I left an empty bucket under a leak and the next day the water had risen 10 cm in the bucket, so it will be overflowing tomorrow."
+ },
+ {
+  "id": 27,
+  "True": "With a grocery budget of $200, she can probably buy more than $200 worth of groceries if she shops at discount stores.",
+  "False": "With a grocery budget of $200, she can't buy more than $200 worth of groceries even if she shops at discount stores."
+ },
+ {
+  "id": 28,
+  "True": "Since dinner needs to be ready by 5:00 pm, I should not leave for my weekly grocery trip at 4:30 pm.",
+  "False": "Since dinner needs to be ready by 5:00 pm, I should leave for my weekly grocery trip at 4:30 pm."
+ },
+ {
+  "id": 29,
+  "True": "I like to nap everyday so I have few chances to take an afternoon walk and still get my work done.",
+  "False": "I like to nap everyday so I have many chances to take an afternoon walk and still get my work done."
+ },
+ {
+  "id": 30,
+  "True": "The hungry kittens solved their problem by tearing into a bag of dog food.",
+  "False": "The hungry kittens solved their problem by tearing into a can of dog food."
+ },
+ {
+  "id": 31,
+  "True": "Heather's son Mike is six and her daughter Nellie is seventeen. Heather allows Nellie to drive home from school unsupervised but has Mike take the bus.",
+  "False": "Heather's son Mike is six and her daughter Nellie is seventeen. Heather allows Mike to drive home from school unsupervised but has Nellie take the bus."
+ },
+ {
+  "id": 32,
+  "True": "As fall is ending, the nights are usually getting colder.",
+  "False": "As spring is ending, the nights are usually getting colder."
+ },
+ {
+  "id": 33,
+  "True": "Sarah had a small dinner at her house for her three best friends and set four place settings.",
+  "False": "Sarah had a small dinner at her house for her three best friends and set fourteen place settings."
+ },
+ {
+  "id": 34,
+  "True": "Jim needed to buy drinks for his family for their week-long vacation, so he bought many bottles of water.",
+  "False": "Jim needed to buy drinks for his family for their week-long vacation, so he bought a few of bottles of water."
+ },
+ {
+  "id": 35,
+  "True": "If you do not put off paying your bills on time, it is likely that your debts will decrease.",
+  "False": "If you do not put off paying your bills on time, it is likely that your debts will increase."
+ },
+ {
+  "id": 36,
+  "True": "When adjusting music volume levels to their max settings, it will increase the likelihood of hearing loss.",
+  "False": "When adjusting music volume levels to their max settings, it will improve a person's hearing."
+ },
+ {
+  "id": 37,
+  "True": "Tim's return from China to the U.S. got delayed at least one day due to inclement weather causing the cancellation of the plane, he may return to work two days later.",
+  "False": "Tim's return from China to the U.S. got delayed at least one day due to inclement weather causing the cancellation of the plane, he will return to work tomorrow."
+ },
+ {
+  "id": 38,
+  "True": "I dropped the kids off for the movie at 2PM, so they should be ready for pick-up by 4PM.",
+  "False": "I dropped the kids off for the movie at 4PM, so they should be ready for pick-up at 2PM."
+ },
+ {
+  "id": 39,
+  "True": "Lucas is an extremely sloppy eater, so on his first date he thinks it's a good idea to go to the movies.",
+  "False": "Lucas is an extremely sloppy eater, so on his first date he thinks it's a good idea to eat out at a restaurant."
+ },
+ {
+  "id": 40,
+  "True": "As she didn't have a hammer, she could try to pound the nail in with a shoe.",
+  "False": "Since she didn't have a hammer, she could try to pound the nail in with a screwdriver."
+ },
+ {
+  "id": 41,
+  "True": "If you have a new shredder you should place it at eye level so you don't lean over the sharp machinery.",
+  "False": "If you have a new shredder you should place it on the ground so you don't lean over the sharp machinery."
+ },
+ {
+  "id": 42,
+  "True": "If you run 10 miles, you will feel tired.",
+  "False": "If you run 10 miles, you will feel well rested."
+ },
+ {
+  "id": 43,
+  "True": "If you want to get Halloween candy on sale you should go one day after Halloween.",
+  "False": "If you want to get Halloween candy on sale you should go one day before Halloween."
+ },
+ {
+  "id": 44,
+  "True": "An easy way to get past a locked house door is with a lockpick.",
+  "False": "An easy way to get past a locked house door is with a car key."
+ },
+ {
+  "id": 45,
+  "True": "Elite football clubs have better chances of winning because they have more money for player wages",
+  "False": "Elite football clubs have better chances of winning because they have nicer changing rooms"
+ },
+ {
+  "id": 46,
+  "True": "As he has to be at the gym in 5 minutes, he does not have time for a nap.",
+  "False": "As he has to be at the gym in 5 hours, he does not have time for a nap."
+ },
+ {
+  "id": 47,
+  "True": "While driving on the road, Christ hears an ambulance siren sound so he slows down.",
+  "False": "While driving on the road, Christ hears an ambulance siren sound so he speeds up."
+ },
+ {
+  "id": 48,
+  "True": "Lucy cheated his husband. It's likely that she confessed to her husband and wowed to never do it again.",
+  "False": "Lucy cheated his husband, she confessed to her husband and wowed to do it again and again."
+ },
+ {
+  "id": 49,
+  "True": "It's Jill's birthday, so it's likely her friend Sally will bring her a gift.",
+  "False": "It's Jill's birthday, so it's likely she will bring her friend Sally a gift."
+ },
+ {
+  "id": 50,
+  "True": "Since her daughter's tooth had been loose for a few months, she was not surprised when it fell out today instead of next month.",
+  "False": "Since her daughter's tooth had been loose for a few days, she was not surprised when it fell out today instead of next month."
+ },
+ {
+  "id": 51,
+  "True": "As the period for free service of the vehicle was over, Jack had to pay for the last service.",
+  "False": "As the period for free service of the vehicle was over, Jack did not pay for the last service."
+ },
+ {
+  "id": 52,
+  "True": "Since he'd be driving in the middle of the day, John was sure to take his sunglasses.",
+  "False": "Since he'd be driving in the middle of the night, John was sure to take his sunglasses."
+ },
+ {
+  "id": 53,
+  "True": "Donald is very ill. He will need someone to get groceries for him.",
+  "False": "Donald is very ill. He will not need anyone to get groceries for him."
+ },
+ {
+  "id": 54,
+  "True": "Daniel had a bus to catch in 10 minutes so he heated his soup in the microwave rather than fire up the wood burning stove.",
+  "False": "Daniel had a a bus to catch in 10 minutes so he fired up the wood burning stove rather than heat his soup in the microwave."
+ },
+ {
+  "id": 55,
+  "True": "They wanted to read at night so they put on the lights",
+  "False": "They wanted to read at night so they put out the lights"
+ },
+ {
+  "id": 56,
+  "True": "Jonah is trying to lose weight. He is likely to turn down his friend's invite to go to a buffet.",
+  "False": "Jonah is trying to lose weight. He is not likely to turn down his friend's invite to go to a buffet."
+ },
+ {
+  "id": 57,
+  "True": "Lucy applied for a loan in the bank, bank is asking to mortgage her jwellery.",
+  "False": "Lucy applied for a loan in the bank, bank is asking to mortgage her kidney."
+ },
+ {
+  "id": 58,
+  "True": "The mother held hands with each of her twins as they crossed the street together.",
+  "False": "The mother held hands with each of her triplets as they crossed the street together."
+ },
+ {
+  "id": 59,
+  "True": "The safest place to keep a glass full of fruit punch is on a table.",
+  "False": "The safest place to keep a glass full of fruit punch is on top of the stove."
+ },
+ {
+  "id": 60,
+  "True": "Since the steak was left cooking on the oven for 3 hours, it was burnt to a crisp.",
+  "False": "Since the steak was left cooking on the oven for 2 minutes, it was burnt to a crisp."
+ },
+ {
+  "id": 61,
+  "True": "The hikers wanted to catch the sunrise at the summit, so they started climbing at midnight.",
+  "False": "The hikers wanted to catch the sunrise at the summit, so they started climbing at noon."
+ },
+ {
+  "id": 62,
+  "True": "During the heat wave, many people decided to turn their air conditioners on.",
+  "False": "During the cold snap, many people decided to turn their air conditioners on."
+ },
+ {
+  "id": 63,
+  "True": "Since I crushed the cardboard box, it became smaller in size.",
+  "False": "Since I crushed the cardboard box, it became larger in size."
+ },
+ {
+  "id": 64,
+  "True": "Mary decided to study hard for the exam because her future depends on it",
+  "False": "Mary decided to study hard for exam because her past depends on it"
+ },
+ {
+  "id": 65,
+  "True": "Bob believes in the tooth fairy, so he can be very young.",
+  "False": "Bob believes in the tooth fairy, so he must be very old."
+ },
+ {
+  "id": 66,
+  "True": "If the meat is frozen, leaving it at room temperature for 500 minutes will be enough for it to thaw.",
+  "False": "If the meat is frozen, leaving it at room temperature for 5 minutes will be enough for it to thaw."
+ },
+ {
+  "id": 67,
+  "True": "If someone gives you a birthday present, they should say Happy Birthday.",
+  "False": "If someone gives you a birthday present, they should say Happy New Year."
+ },
+ {
+  "id": 68,
+  "True": "There was a stain on my t-shirt, and I wanted to get it out, so I rubbed it into the shirt, causing the stain to darken.",
+  "False": "There was a stain on my t-shirt, and I wanted to get it out, so I rubbed it into the shirt, causing the stain to fade."
+ },
+ {
+  "id": 69,
+  "True": "Jerry keeps the pair of rain coat with her in case of rainy days.",
+  "False": "Jerry keeps the pair of rain coat with her, because the weather is too hot."
+ },
+ {
+  "id": 70,
+  "True": "If you place a dry piece of paper into an open flame it will likely catch fire.",
+  "False": "If you place a dry piece of paper into an open flame it will not likely catch fire."
+ },
+ {
+  "id": 71,
+  "True": "If my refrigerator stops working, I can put my food outside in the snow until it is fixed.",
+  "False": "If my refrigerator stops working, I can put my food outside in the sun until it is fixed."
+ },
+ {
+  "id": 72,
+  "True": "John travelled 2000 kilometers to another country by plane.",
+  "False": "John travelled 20 kilometers to another country by plane."
+ },
+ {
+  "id": 73,
+  "True": "Ryan knew Martha was a dog lover, so he bought her high quality dog food.",
+  "False": "Ryan knew Martha was a dog lover, so he bought her high quality cat food."
+ },
+ {
+  "id": 74,
+  "True": "Sarah left for 5:30 mass at 5:00 in order to be early; it was about a mile away.",
+  "False": "Sarah left for 5:30 mass at 5:00 in order to be early; it was about 50 miles away."
+ },
+ {
+  "id": 75,
+  "True": "Fred is building a house out of sand, so he will probably use buckets and water to construct it.",
+  "False": "Fred is building a house out of sand, so he will probably use hammers and nails to construct it."
+ },
+ {
+  "id": 76,
+  "True": "Because the drive was 20 miles long, Beth was able to make it to her destination in under 5 hours.",
+  "False": "Because the drive was 20 miles long, Beth was able to make it to her destination in under 5 minutes."
+ },
+ {
+  "id": 77,
+  "True": "Eager to expand his social base, Tim was excited to find out that he knew no one at the party.",
+  "False": "Eager to expand his social base, Tim was excited to find out that several of his friends were at the party."
+ },
+ {
+  "id": 78,
+  "True": "Brushing your teeth twice a day will help prevent cavities and tooth decay.",
+  "False": "Brushing your teeth twice a week will help prevent cavities and tooth decay."
+ },
+ {
+  "id": 79,
+  "True": "The small size bikini is too small for Amanda to wear, so the medium size might fit instead.",
+  "False": "Even the small size bikini is too big for Amanda to wear, so the medium size might fit instead."
+ },
+ {
+  "id": 80,
+  "True": "Since Sarah has three years left at college, she'd be wise to get a 10 hour a week job.",
+  "False": "Since Sarah has three years left at college, she'd be wise to get a 60 hour a week job."
+ },
+ {
+  "id": 81,
+  "True": "As she has to be at work in 2 minutes she will not have time to talk.",
+  "False": "As she has to be at work in 2 hours she will not have time to talk."
+ },
+ {
+  "id": 82,
+  "True": "Winters are very cold in Russia so its inhabitants have high heating costs.",
+  "False": "Winters are very cold in Russia so its inhabitants don't have heating costs."
+ },
+ {
+  "id": 83,
+  "True": "Jack has enrolled for the 4 year engineering course last month and hence he will not graduate at the end of this year.",
+  "False": "Jack has enrolled for the 4 year engineering course last month and hence he will graduate at the end of this year."
+ },
+ {
+  "id": 84,
+  "True": "His mother will schedule an appointment for her son to take his US driver's test after his sixteenth birthday.",
+  "False": "His mother will schedule an appointment for her son to take his US driver's test after his tenth birthday."
+ },
+ {
+  "id": 85,
+  "True": "Since my last exam is today, I booked a flight home from school that departs tomorrow.",
+  "False": "Since my last exam is today, I booked a flight home from school that departed yesterday."
+ },
+ {
+  "id": 86,
+  "True": "Jenna is five feet tall. Since she can just barely reach the apples growing on the tree, so can her sister who's five feet and six inches.",
+  "False": "Jenna is five feet tall. Since she can just barely reach the apples growing on the tree, so can her sister who's four feet and six inches."
+ },
+ {
+  "id": 87,
+  "True": "Smith was an ambulance driver, so whenever the patient was there in his ambulance, he used to drive faster.",
+  "False": "Smith was an ambulance driver, so whenever the patient was there in his ambulance, he used to drive slowly."
+ },
+ {
+  "id": 88,
+  "True": "Peter got heavily injured in a car accident last week, so he won't be able to go to work tomorrow.",
+  "False": "Peter got injured in a car accident this afternoon, so he was not able to go to work yesterday."
+ },
+ {
+  "id": 89,
+  "True": "A normal staff is more likely to seek guidance from their boss than to make an uniformed decision.",
+  "False": "A normal staff is more likely to make an uninformed decision than to seek guidance from their boss."
+ },
+ {
+  "id": 90,
+  "True": "Laura is not likely to help Karen with her extra work since Karen is not grateful.",
+  "False": "Laura is likely to help Karen with her extra work since Karen is not grateful."
+ },
+ {
+  "id": 91,
+  "True": "Today is January 21, and Valentine's Day is on February 14, so I have plenty of time to search for and land a date for the day of lovers.",
+  "False": "Today is January 21, and Valentine's Day is on February 14, so I don't have enough time to search for and land a date for the day of lovers."
+ },
+ {
+  "id": 92,
+  "True": "Jonathan was craving for a coffee, he visited a coffee shop and ordered a coffee.",
+  "False": "Jonathan was craving for a coffee, he visited a coffee shop and ordered a tea."
+ },
+ {
+  "id": 93,
+  "True": "Because my natural hair color is black, if I dye my hair blonde, people will likely notice.",
+  "False": "Because my natural hair color is black, if I dye my hair black, people will likely notice."
+ },
+ {
+  "id": 94,
+  "True": "Mary enjoys speed, so she prefers riding on a gyro-drop at the theme park.",
+  "False": "Mary enjoys speed, so she prefers riding a carousel at the theme park."
+ },
+ {
+  "id": 95,
+  "True": "Natalie was embarrassed when her husband yelled at her in the store, so she didn't tell any of her classmates about the experience.",
+  "False": "Natalie was embarrassed when her husband yelled at her in the store, so she told all her classmates about the experience."
+ },
+ {
+  "id": 96,
+  "True": "June stayed home from school because she was sick. When her temperature hit 102.1, her parents knew they had to rush her to the hospital.",
+  "False": "June stayed home from school because she was sick. When her temperature hit 98.6, her parents knew they had to rush her to the hospital."
+ },
+ {
+  "id": 97,
+  "True": "If the television is not working, you can check the outlet to see if it is plugged in.",
+  "False": "If the pencil is not working, you can check the outlet to see if it is plugged in."
+ },
+ {
+  "id": 98,
+  "True": "Frida wanted to avoid crowds at the beach, so she went there at 12 am.",
+  "False": "Frida wanted to avoid crowds at the beach, so she went there at 12 pm."
+ },
+ {
+  "id": 99,
+  "True": "Bob's coffee mug was missing so he used a styrofoam cup.",
+  "False": "Bob's coffee mug was missing so he used a plant cup."
+ },
+ {
+  "id": 100,
+  "True": "Even though the traffic signal is green, drivers should follow the policewoman's instruction to stop.",
+  "False": "Even though the policewoman instructed drivers to stop, they should follow the green light to drive away."
+ },
+ {
+  "id": 101,
+  "True": "Since I am scheduled to work 4 hours on Friday, I will have plenty of time to schedule personal appointments for that day.",
+  "False": "Since I am scheduled to work 12 hours on Friday, I will have plenty of time to schedule personal appointments for that day."
+ },
+ {
+  "id": 102,
+  "True": " If we don't close that door, an intruder could open it and walk in.",
+  "False": "If we lock that door, an intruder could walk right through it."
+ },
+ {
+  "id": 103,
+  "True": "You can walk more than 10 miles in a hour, if you keep a steady pace of 20 miles per hour.",
+  "False": "You can walk 10 miles in a hour, if you keep a steady pace of 5 miles per hour."
+ },
+ {
+  "id": 104,
+  "True": "The storm is supposed to hit in 50 minutes and I love running in the rain so I'll go on a run in 50 minutes.",
+  "False": "The storm is supposed to hit in 50 minutes and I love running in the rain so I'll go on a run in 5 minutes."
+ },
+ {
+  "id": 105,
+  "True": "There are crumbs all over the floor and they need to be cleaned up, I should do this with the vacuum.",
+  "False": "There are crumbs all over the floor and they need to be cleaned up, I should do this with the garbage can."
+ },
+ {
+  "id": 106,
+  "True": "If I want to keep a houseplant healthy, I should place it by a window that gets six hours of sunlight a day.",
+  "False": "If I want to keep a houseplant healthy, I should place it by a window that gets sixty minutes of sunlight a day."
+ },
+ {
+  "id": 107,
+  "True": "1 day after it is born, a cat is not physically capable of reproducing.",
+  "False": "1 day after it is born, a cat is physically capable of reproducing."
+ },
+ {
+  "id": 108,
+  "True": "In a bar, I would normally refuse a glass of wine from a stranger.",
+  "False": "In a bar, I would normally refuse a glass of wine from my date."
+ },
+ {
+  "id": 109,
+  "True": "If Eric eats twenty chocolate bars, he will probably get a stomach ache.",
+  "False": "If Eric eats two chocolate bars, he will get a stomach ache."
+ },
+ {
+  "id": 110,
+  "True": "Susan is coming over to Sally's baby shower so she is bringing diapers",
+  "False": "Susan is coming over to Sally's baby shower so Sally is offering her diapers"
+ },
+ {
+  "id": 111,
+  "True": "If you want a quick snack, getting one banana would be a good choice generally.",
+  "False": "If you want a snack, getting twenty bananas would be a good choice generally."
+ },
+ {
+  "id": 112,
+  "True": "As they started on the 2 hour journey from home just now, they will not reach the office in ten minutes for the meeting .",
+  "False": "As they started on the 2 hour journey from home just now, they will reach the office in ten minutes for the meeting."
+ },
+ {
+  "id": 113,
+  "True": "As he didn't have a match to light the fire, he could use a feather instead.",
+  "False": "As he didn't have a match to light the fire, he could use a mirror instead."
+ },
+ {
+  "id": 114,
+  "True": "If you feel drowsy while working an office job, you should stand up while working for a few minutes.",
+  "False": "If you feel drowsy while working an office job, you should sit down while working for a few minutes."
+ },
+ {
+  "id": 115,
+  "True": "My watch is running slow, so I need to add a few minutes to figure out the correct time.",
+  "False": "My watch is running fast, so I need to add a few minutes to figure out the correct time."
+ },
+ {
+  "id": 116,
+  "True": "As the ball dropped in Times Square I put on my sunglasses to minimize the light reflected from it which was brighter than the moon's.",
+  "False": "As the ball dropped in Times Square I put on my sunglasses to minimize the light's reflection from it which was brighter than the sun's."
+ },
+ {
+  "id": 117,
+  "True": " Sonia got up late so she did'nt have time for breakfast.",
+  "False": "Sonia got up late so she did'nt have time for dinner"
+ },
+ {
+  "id": 118,
+  "True": "Since my doctor's appointment is at noon and it takes ten minutes to get there, I can leave by 11:45 am.",
+  "False": "Since my doctor's appointment is at noon and it takes twenty minutes to get there, I should leave by 11:45 am."
+ },
+ {
+  "id": 119,
+  "True": "I love going to the forest to get some fresh air.",
+  "False": "I love going to the mall to get some fresh air."
+ },
+ {
+  "id": 120,
+  "True": "If it is raining, I should ask my guests to take off their shoes before they come in my house.",
+  "False": "If it is raining, I should not ask my guests to take off their shoes before they come in my house."
+ },
+ {
+  "id": 121,
+  "True": "My school bus arrives in 1 minute, I do not have time to walk home 5 minutes for my umbrella.",
+  "False": "My school bus arrives in 15 minutes, I do not have time to walk home 5 minutes for my umbrella."
+ },
+ {
+  "id": 122,
+  "True": "Hayden was 17 years old, so he knew it was time to start looking into what colleges he is interested in.",
+  "False": "Hayden was 17 months old, so he knew it was time to start looking into what colleges he is interested in."
+ },
+ {
+  "id": 123,
+  "True": "The car seats four people, so Jerry and his three friends can ride in it together.",
+  "False": "The car seats four people, so Jerry and his four friends can ride in it together."
+ },
+ {
+  "id": 124,
+  "True": "Erica usually gets off work at 5 pm. She rarely sees the janitor that comes in for a night shift.",
+  "False": "Erica usually gets off work at 5 pm. She often sees the janitor that comes in for a night shift."
+ },
+ {
+  "id": 125,
+  "True": "With a salary of $25,000 a year, he cannot afford to rent an apartment that costs $2,500 a month.",
+  "False": "With a salary of $25,000 a year, he can afford to rent an apartment that costs $2,500 a month."
+ },
+ {
+  "id": 126,
+  "True": "If you constantly lift watermelons, you might get muscles.",
+  "False": "If you constantly lift thimbles, you might get muscles."
+ },
+ {
+  "id": 127,
+  "True": "The house party got so loud that the neighbours called the police",
+  "False": "The house party got so loud that the neighbours called the DJ"
+ },
+ {
+  "id": 128,
+  "True": "Since some time is reserved for commercials, the hour-long TV program lasts less than 60 minutes.",
+  "False": "Since some time is reserved for commercials, the hour-long TV program lasts exactly 60 minutes."
+ },
+ {
+  "id": 129,
+  "True": "Laura has been trying to memorize a Beethoven Piano Sonata. It may take her days.",
+  "False": "Laura has been trying to memorize a Beethoven Piano Sonata. It took her five minutes."
+ },
+ {
+  "id": 130,
+  "True": "Since the floor is wet, you should probably put a warning sign to alert the customers.",
+  "False": "Since the floor is wet, you should probably put a tarp to alert the customers."
+ },
+ {
+  "id": 131,
+  "True": "Since she didn't have a hair tie, Cassie used a scarf to keep the hair out of her face.",
+  "False": "Since she didn't have a hair tie, Cassie used a necklace to keep the hair out of her face "
+ },
+ {
+  "id": 132,
+  "True": "I wanted to eat eggs, so I boiled 4 eggs, peeled them and ate them.",
+  "False": "I wanted to eat eggs, so I boiled 4 potatoes, peeled them and ate them."
+ },
+ {
+  "id": 133,
+  "True": "If you plug in earbuds into your laptop's microphone jack, they'll try to function as microphones.",
+  "False": "If you plug in earbuds into your laptop's microphone jack, they'll function as earphones."
+ },
+ {
+  "id": 134,
+  "True": "Because I wanted a sweeter banana custard, I waited a day for the bananas to ripen.",
+  "False": "Because I wanted a sweeter banana custard, I waited a month for the bananas to ripen."
+ },
+ {
+  "id": 135,
+  "True": "Frank was able to find his favorite socks easily among the other three pairs in his drawer.",
+  "False": "Frank was able to find his favorite socks easily among the other sixty five pairs in his drawer."
+ },
+ {
+  "id": 136,
+  "True": "While a person in the Europe is having dinner around 8 pm GMT, most people in Australia are asleep",
+  "False": "While a person on the west coast of USA is having dinner around 8 pm, most people in Australia are asleep"
+ },
+ {
+  "id": 137,
+  "True": "If you feel a cramp in your legs, you should stretch your legs to relieve some of the tension.",
+  "False": "If you feel a cramp in your legs, you should bend your legs to relieve some of the tension."
+ },
+ {
+  "id": 138,
+  "True": "John knew Lisa was single, so it was ok for him to ask her on a date for Valentine's Day.",
+  "False": "John knew Lisa was in a serious relationship, so it was ok for him to ask her on a date for Valentine's Day."
+ },
+ {
+  "id": 139,
+  "True": "It is abnormal for someone to spit in the face of a person they have just met.",
+  "False": "It is normal for someone to spit in the face of a person they have just met."
+ },
+ {
+  "id": 140,
+  "True": "I had a hard time trying to understand what my friend was saying because they had food in their mouth.",
+  "False": "I easily understood what my friend was saying because they had food in their mouth."
+ },
+ {
+  "id": 141,
+  "True": "It takes 20 minutes to walk from school to the bus stop and the last bus is 10 minutes after my class ends so I have to leave class 10 minutes earlier.",
+  "False": "It takes 20 minutes to walk from school to the bus stop and the last bus is 10 minutes after my class ends so I have to leave class 20 minutes earlier."
+ },
+ {
+  "id": 142,
+  "True": "The skills James developed while making jewelry translated well to his later interest in watch repair.",
+  "False": "The skills James developed while making jewelry translated well to his later interest in gardening."
+ },
+ {
+  "id": 143,
+  "True": "Brushes with thin bristles can better clean the gaps between keys on a keyboard.",
+  "False": "Brushes with wet bristles can better clean the gaps between keys on a keyboard."
+ },
+ {
+  "id": 144,
+  "True": "Jan wanted some time off his job to attend lunch with his girlfriend, so he asked his manager for a break at 12 PM instead of 12 AM.",
+  "False": "Jan wanted some time off his job to attend lunch with his girlfriend, so he asked his manager for a break at 12 AM instead of 12 PM."
+ },
+ {
+  "id": 145,
+  "True": "Finch was a fire engine driver, so he used to drive fast when the siren on.",
+  "False": "Finch was a fire engine driver, so he used to drive slowly when the siren on."
+ },
+ {
+  "id": 146,
+  "True": "If a fence is not installed on the property, the dogs could leave the yard.",
+  "False": "If a fence is not installed on the property, the dogs can't leave the yard."
+ },
+ {
+  "id": 147,
+  "True": "With school starting next week, there were likely a lot of people at the store buying school supplies.",
+  "False": "With school ending next week, there were likely a lot of people at the store buying school supplies."
+ },
+ {
+  "id": 148,
+  "True": "If you cannot find a broom you can sweep crumbs with towels.",
+  "False": "If you cannot find a broom you can sweep crumbs with water."
+ },
+ {
+  "id": 149,
+  "True": "Joe was an environmentalist, so he was more likely to use reusable shopping bags when out.",
+  "False": "Joe was an environmentalist, so he was more likely to use styrofoam containers when out."
+ },
+ {
+  "id": 150,
+  "True": "The politician claimed he believed in family values so only his usual voters voted for him.",
+  "False": "The politician claimed he believed in family values so everyone voted for him."
+ },
+ {
+  "id": 151,
+  "True": "There are 839 people in a club with a maximum occupancy of 850, 20 more just arrived, and now we've exceeded the limit by 9 clubgoers.",
+  "False": "There are 839 people in a club with a maximum occupancy of 850, 9 just departed, and now we've exceeded the limit by 20 clubgoers."
+ },
+ {
+  "id": 152,
+  "True": "Jacob does not have a test until tomorrow so he can study for it today.",
+  "False": "Jacob does not have a test until tomorrow so he can not study for it today."
+ },
+ {
+  "id": 153,
+  "True": "If you're driving right behind someone who suddenly brakes, you might only have a second or two react before crashing!",
+  "False": "If you're driving right behind someone who suddenly brakes, you might only have a minute or two to react before crashing!"
+ },
+ {
+  "id": 154,
+  "True": "Rajesh wanted to buy his girlfriend a ring, so he went to a jeweler and purchased a ring.",
+  "False": "Rajesh wanted to buy his girlfriend a ring, so he went to a restaurent and purchased a burger."
+ },
+ {
+  "id": 155,
+  "True": "My piano weighs 1000 pounds so I need at least four people to help me with the heavy lifting.",
+  "False": "My piano weighs 1000 pounds so I don't need any help with the heavy lifting."
+ },
+ {
+  "id": 156,
+  "True": "The meal we ordered was cheaper than expected, so we ordered extra meal.",
+  "False": "The meal we ordered was more expensive than expected, so we ordered extra meal."
+ },
+ {
+  "id": 157,
+  "True": "She was short ten cents, but was able to buy it after finding a quarter.",
+  "False": "She was short ten cents, but was able to buy it after finding a penny."
+ },
+ {
+  "id": 158,
+  "True": "The sun shines brightly in the blue clear sky. You should not stare at it directly.",
+  "False": "The sun shines brightly in the blue clear sky. You should stare at it directly."
+ },
+ {
+  "id": 159,
+  "True": "Sue called her mother and she wasn't home, so she will have to leave a message.",
+  "False": "Sue called her mother and she wasn't home, so she won't have to leave a message."
+ },
+ {
+  "id": 160,
+  "True": "I didn't want the ice cream to melt, so I put it in the freezer.",
+  "False": "I didn't want the ice cream to melt, so I put it in the oven."
+ },
+ {
+  "id": 161,
+  "True": "James works six miles from his house, and he normally walks to work. His commute is probably longer than an hour.",
+  "False": "James works six miles from his house, and he normally walks to work. His commute is probably shorter than thirty minutes."
+ },
+ {
+  "id": 162,
+  "True": "Peter and Paul work at nights in alternate days, meaning Peter works one night, next night Paul and so on, last Monday Peter was at work, so this Monday Paul will be at work.",
+  "False": "Peter and Paul work at nights in alternate days, meaning Peter works one night, next night Paul and so on, last Monday Peter was at work, so this Monday Peter will be at work."
+ },
+ {
+  "id": 163,
+  "True": "A person will not starve to death if they go one day without eating any food.",
+  "False": "A person will starve to death if they go one day without eating any food."
+ },
+ {
+  "id": 164,
+  "True": "Gregory started working at the store when he was eighteen. In two months, he is in basic training.",
+  "False": "Gregory started working at the store when he was eighteen. In two decades, he is in basic training."
+ },
+ {
+  "id": 165,
+  "True": "To pull something small from a drain you could use a vacuum.",
+  "False": "To pull something small from a drain you could use a log."
+ },
+ {
+  "id": 166,
+  "True": "Traffic was heavy, so he decided to leave for work early today.",
+  "False": "Traffic was heavy, so he decided to leave for work later than usual today."
+ },
+ {
+  "id": 167,
+  "True": "Jim needed to lather on his shaving cream so he grabbed his brush.",
+  "False": "Jim needed to lather on his shaving cream so he grabbed his comb."
+ },
+ {
+  "id": 168,
+  "True": "Since I only gave Martha only a little bit of my allowance, I can buy my new TV.",
+  "False": "Since I nearly gave Martha most of my allowance, I can buy my new TV."
+ },
+ {
+  "id": 169,
+  "True": "Tim wanted to make his tux more formal so he added a bow tie.",
+  "False": "Tim wanted to make his tux more formal so he added a bolo tie."
+ },
+ {
+  "id": 170,
+  "True": "Jimmy wanted to make dinner just for himself, so he made 1 can of soup.",
+  "False": "Jimmy wanted to feed 5 people, so he made 1 can of soup."
+ },
+ {
+  "id": 171,
+  "True": "Victor never brushed his teeth, so his teeth might have 5 cavities.",
+  "False": "Victor never brushed his teeth, so his teeth were very healthy."
+ },
+ {
+  "id": 172,
+  "True": "It would be more difficult to catch up in her classes if Petunia missed four days of school rather than one.",
+  "False": "It would be more difficult to catch up in her classes if Petunia missed one day of school rather than four."
+ },
+ {
+  "id": 173,
+  "True": "When Chris went to his grandfather's funeral, everybody looked so sorrowful there.",
+  "False": "When Chris went to his grandfather's funeral, everybody looked so cheerful there."
+ },
+ {
+  "id": 174,
+  "True": "As the prices were soaring up, shoppers reduced their purchase quantity.",
+  "False": "As the prices were soaring up, shoppers increased their purchase quantity."
+ },
+ {
+  "id": 175,
+  "True": "If you go to the grocery store and buy flour with the intention of turning it into a cake, you will have to wait about 180 minutes for it to be ready.",
+  "False": " If you go to the grocery store and buy flour with the intention of turning it into a cake, you will have to wait about 18 minutes for it to be ready."
+ },
+ {
+  "id": 176,
+  "True": "Needing to clean the condensation off of the refrigerator door, a dry rag will do the trick.",
+  "False": "Needing to clean the condensation off of the refrigerator door, a wet rag will do the trick."
+ },
+ {
+  "id": 177,
+  "True": "Because she could lift the 20 lbs weight without a problem, we knew she could easily lift the 10 lb weight as well.",
+  "False": "Because she could lift the 20 lbs weight without a problem, we knew she could easily lift the 100 lb weight as well."
+ },
+ {
+  "id": 178,
+  "True": "Jerry wanted to buy a computer for many years, he saved for it and bought it on his birthday.",
+  "False": "Jerry wanted to buy a computer for many years, he prayed hard for it and he was obliged by god."
+ },
+ {
+  "id": 179,
+  "True": "Since I have to work on Saturday, I can't plan to go out of town for the day.",
+  "False": "Since I have to work on Saturday, I can plan to go out of town for the day."
+ },
+ {
+  "id": 180,
+  "True": "Since the kids are sleeping, I should mix the cookie dough by hand",
+  "False": "Since the kids are sleeping, I should mix cookie dough with the loud electric mixer"
+ },
+ {
+  "id": 181,
+  "True": "In order to sautee a cup of onions, probably Carol will need to use 2 tablespoons of olive oil.",
+  "False": "In order to sautee a cup of onions, probably Carol will need to use 10 tablespoons of olive oil."
+ },
+ {
+  "id": 182,
+  "True": "If you want to make a good batch of popcorn, you should microwave it until there is one second between pops.",
+  "False": "If you want to make a good batch of popcorn, you should microwave it until there is one minute between pops."
+ },
+ {
+  "id": 183,
+  "True": "Tim's hair is short so he doesn't have to use much conditioner.",
+  "False": "Tim's hair is long so he doesn't have to use much conditioner."
+ },
+ {
+  "id": 184,
+  "True": "Sophia couldn't stand the snow, so she dealt with it by moving in with her aunt in Phoenix.",
+  "False": "Sophia couldn't stand the snow, so she dealt with it by moving in with her aunt in New York."
+ },
+ {
+  "id": 185,
+  "True": "He works in a building only two blocks away from his house, so he doesn't have to drive there.",
+  "False": "He works in a building only two blocks away from his house, so he can only get there quickly by car."
+ },
+ {
+  "id": 186,
+  "True": "John should make sure to zip his pants after he pees",
+  "False": "John should make sure to zip his pants before he pees."
+ },
+ {
+  "id": 187,
+  "True": "Because John removed the steering wheel from his Mercedes, he can't drive the Mercedes, as it is, to the beach.",
+  "False": "Because John removed the steering wheel from his Mercedes, he can drive the Mercedes, as it is, to the beach."
+ },
+ {
+  "id": 188,
+  "True": "Someone who has $1000 in the bank and gets 4% interest per year, will have more than $1030 at the end of the first year",
+  "False": "Someone who has $1000 in the bank and gets 3% interest per year, will have more than $1030 at the end of the first year"
+ },
+ {
+  "id": 189,
+  "True": "As three workers can load the suitcases, it should be quicker for five workers to do so.",
+  "False": "As three workers can load the suitcases, it should be quicker for one worker to do so."
+ },
+ {
+  "id": 190,
+  "True": "If the leaves of a tree fall, it does not mean it is autumn.",
+  "False": "If the leaves of a tree fall, it must be in autumn."
+ },
+ {
+  "id": 191,
+  "True": "Since he has a microwave, he can reheat the pizza in a ceramic plate.",
+  "False": "Since he has a microwave, he can reheat the pizza in a metal plate."
+ },
+ {
+  "id": 192,
+  "True": "When Ella needs a haircut, she is likely to go to her favorite salon in the town.",
+  "False": "Whenever Ella needs a haircut, she always goes to her favorite dentist in the town."
+ },
+ {
+  "id": 193,
+  "True": "Molly had thought it would take her six hours to move. She was happy when it took her three hours to move.",
+  "False": "Molly had thought it would take her three hours to move. She was happy when it took her six hours to move."
+ },
+ {
+  "id": 194,
+  "True": "John needed to buy a cake for his mother's birthday tomorrow, so he planned to go to the bakery this afternoon to get one.",
+  "False": "John needed to buy a cake for his mother's birthday tomorrow, so he planned to go to the bakery next week to get one."
+ },
+ {
+  "id": 195,
+  "True": "Jon needed to heat his frozen food, so he put it in the microwave for 2 minutes.",
+  "False": "Jon needed to heat his frozen food, so he put it in the microwave for 10 hours."
+ },
+ {
+  "id": 196,
+  "True": "Rachel wants a pet with a long life span, so she gets a dog instead of a hamster.",
+  "False": "Rachel wants a pet with a long life span, so she gets a hamster instead of a dog."
+ },
+ {
+  "id": 197,
+  "True": "Sarah likes to eat junk food so she is likely to consume a bag of chips offered by her friend.",
+  "False": "Sarah likes to eat junk food so she is likely to throw away a bag of chips offered by her friend."
+ },
+ {
+  "id": 198,
+  "True": "As the weather was very cold he put on his jacket to protect himself.",
+  "False": "As the weather was very hot he put on his jacket to protect himself."
+ },
+ {
+  "id": 199,
+  "True": "Carol will participate in a beauty contest to be held soon so she decides to eat less.",
+  "False": "Carol will participate in a beauty contest to be held soon so she decides to eat more."
+ },
+ {
+  "id": 200,
+  "True": "If your doctor says to take your medicine once every six hours and you just had a pill two hours ago, you should take another pill in four hours.",
+  "False": "If your doctor says to take your medicine once every six hours and you just had a pill two hours ago, you should take another pill in ten minutes."
+ },
+ {
+  "id": 201,
+  "True": "During a hiking trip, I tried to stay behind my instructor because they knew the path.",
+  "False": "During a hiking trip, I tried to stay ahead of my instructor because they knew the path."
+ },
+ {
+  "id": 202,
+  "True": "The girl had been busy preparing the meal all day long and was disappointed when her date brought pizza to eat.",
+  "False": "The girl had been busy preparing the meal all day long and was excited when her date brought pizza to eat. "
+ },
+ {
+  "id": 203,
+  "True": "Since the electricity was out for ten days, the frozen items in my freezer had thawed.",
+  "False": "Since the electricity was out for ten minutes, the frozen items in my freezer had thawed."
+ },
+ {
+  "id": 204,
+  "True": "Tim's computer was slowing down so he scanned his computer for viruses.",
+  "False": "Tim's computer was slowing down so he scanned his computer for glitches."
+ },
+ {
+  "id": 205,
+  "True": "When a 20 year old comes to my door at Halloween I kind of wonder",
+  "False": "When a 6 year old comes to my door at Halloween I kind of wonder"
+ },
+ {
+  "id": 206,
+  "True": "Jared can't lift the 45 inch TV by himself, so he probably won't be able to lift a 65 inch TV.",
+  "False": "Jared can't lift the 45 inch TV by himself, so he probably will be able to lift a 65 inch TV."
+ },
+ {
+  "id": 207,
+  "True": "Since my boss asked for the report right away, I'd better work on it before grabbing lunch.",
+  "False": "Since my boss asked for the report right away, I'd better work on it after grabbing lunch."
+ },
+ {
+  "id": 208,
+  "True": "If Mary does a bad job at cutting my hair, I will be unlikely to make a return appointment.",
+  "False": "If Mary does a bad job at cutting my hair, I will be likely to make a return appointment."
+ },
+ {
+  "id": 209,
+  "True": "If you pour water over a hard rock, the rock will not disappear.",
+  "False": "If you pour water over a hard rock, the rock will disappear."
+ },
+ {
+  "id": 210,
+  "True": "I was left on the side of the road, so I decided to put up my thumb to try to hitch hike off of someone.",
+  "False": "I was left on the side of the road, so I decided to put up my middle finger to try to hitch hike off of someone."
+ },
+ {
+  "id": 211,
+  "True": "When you order a food delivery and there is traffic jam, you should expect the food to be delivered as cold.",
+  "False": "When you order a food delivery and there is traffic jam, you should expect the food to be delivered as warm."
+ },
+ {
+  "id": 212,
+  "True": "When someone runs out in front of your car, you should put your foot on the brake.",
+  "False": "When someone runs out in front of your car, you should put your foot on the accelerator.  "
+ },
+ {
+  "id": 213,
+  "True": "After her husband forgot their wedding anniversary, Suzanne was very pleased that her husband sent her a dozen roses to make up for it. ",
+  "False": "After her husband forgot their wedding anniversary, Suzanne was very pleased that her husband did not send her a dozen roses to make up for it. "
+ },
+ {
+  "id": 214,
+  "True": "The recipe said the cake needed to bake for two more hours, so Amy decided to take a nap while she waited.",
+  "False": "The recipe said the cake needed to bake for two more minutes, so Amy decided to take a nap while she waited."
+ },
+ {
+  "id": 215,
+  "True": "Because John has no license to drive a car, The police office fined him with warning",
+  "False": "Because John has no license to drive a car, The police office leave him with warning"
+ },
+ {
+  "id": 216,
+  "True": "Joe has one month of vacation time to use, so he's going to take a trip to China instead of the local beach.",
+  "False": "Joe has one day of vacation time to use, so he's going to take a trip to China instead of the local beach."
+ },
+ {
+  "id": 217,
+  "True": "Tim was missing for 2 weeks so his family was concerned on whether he was still alive.",
+  "False": "Tim was missing for 2 hours so his family was concerned on whether he was still alive."
+ },
+ {
+  "id": 218,
+  "True": "If you talk softer, less people will hear you. ",
+  "False": "If you talk softer, more people will hear you. "
+ },
+ {
+  "id": 219,
+  "True": "The battery on Pat's phone just ran out so he needed to charge it for at least 60 minutes to get it fully charged.",
+  "False": "The battery on Pat's phone just ran out so he needed to charge it for at least 10 minutes to get it fully charged."
+ },
+ {
+  "id": 220,
+  "True": "Jack rode his Lexus for 4 hours so it was going to run out of gas.",
+  "False": "Jack rode his Tesla for 4 hours so it was going to run out of gas."
+ },
+ {
+  "id": 221,
+  "True": "As more autistic kids enter the room while the normal kids are leaving, it becomes quieter.",
+  "False": "As more autistic kids enter the room while the normal kids are leaving, it becomes louder."
+ },
+ {
+  "id": 222,
+  "True": "Daniel can walk one mile in thirty minutes.",
+  "False": "Daniel can walk five miles in less than fifteen minutes."
+ },
+ {
+  "id": 223,
+  "True": "The 500 g bag of sugar is two thirds full. If you need 300 g of sugar, you would need not another 500 g bag of sugar.",
+  "False": "The 500 g bag of sugar is two thirds full. If you need 300 g of sugar, you would need another 500 g bag of sugar."
+ },
+ {
+  "id": 224,
+  "True": "Since I had an eight hour drive ahead of me I filled up my gas tank before I left.",
+  "False": "Since I had an eight hour drive ahead of me I decided not to fill my gas tank before I left."
+ },
+ {
+  "id": 225,
+  "True": "It's very near, you can go there on foot ",
+  "False": "It's very near, you can't go there on foot "
+ },
+ {
+  "id": 226,
+  "True": "As children are out of school in the summer drivers need to be careful and watch for children in the street.",
+  "False": "As children are out of school in the summer drivers do not need to be careful and watch for children in the street."
+ },
+ {
+  "id": 227,
+  "True": "To get more light at the desk it is a good idea to put the lamp two feet away.",
+  "False": "To get more light at the desk it is a good idea to put the lamp two hundred feet away."
+ },
+ {
+  "id": 228,
+  "True": "A human being has a much easier time swallowing fifty grains of rice than they do swallowing fifty mangos.",
+  "False": "A human being has a much easier time swallowing fifty mangos than they do swallowing fifty grains of rice."
+ },
+ {
+  "id": 229,
+  "True": "Brian's fingers were too big to grab the tiny spring,  so he used a pair of tweezers. ",
+  "False": "Brian's fingers were too big to grab the tiny spring,  so he used a catcher's mitt. "
+ },
+ {
+  "id": 230,
+  "True": "It was midnight, so John decided to get his telescope and do some stargazing.",
+  "False": "It was noon, so John decided to get his telescope and do some stargazing."
+ },
+ {
+  "id": 231,
+  "True": "Because it was 6pm on Halloween and we had plenty of candy, I decided to open the door and turn the porch light on.",
+  "False": "Because it was 6pm on Halloween and we no candy, I decided to open the door and turn the porch light on."
+ },
+ {
+  "id": 232,
+  "True": "Tim wanted to learn how to shoot a basketball so he looked up videos of Steph Curry.",
+  "False": "Tim wanted to learn how to shoot a basketball so he looked up videos of Tom Brady."
+ },
+ {
+  "id": 233,
+  "True": "Some pregnant women have the weirdest eating urges ",
+  "False": "Some pregnant men have the weirdest eating urges "
+ },
+ {
+  "id": 234,
+  "True": "As the ice was kept outside freezer for a very long time, it was melted. ",
+  "False": "As the ice was kept outside freezer for a very short time, it was melted. "
+ },
+ {
+  "id": 235,
+  "True": "If I start cooking a pizza now, it should be done in less than an hour.",
+  "False": "If I start cooking a pizza now, it should be done in less than a second."
+ },
+ {
+  "id": 236,
+  "True": "Nate hates Chelsea, so he will take great pleasure in taking her spot on the debate team.",
+  "False": "Nate hates Chelsea, so he will not take great pleasure in taking her spot on the debate team."
+ },
+ {
+  "id": 237,
+  "True": "If you don't have glue, you could try using tape instead.",
+  "False": "If you don't have glue, you should not try using tape instead."
+ },
+ {
+  "id": 238,
+  "True": "Tom put's the baby in the child's seat and drives to the store. ",
+  "False": "The baby is in the driver's seat and drives Tom to the store. "
+ },
+ {
+  "id": 239,
+  "True": "My Friend was severely ill and was admitted in a hospital, I carried flowers and fruits when visited.",
+  "False": "My Friend was severely ill and was admitted in a hospital, I carried condoms and sex toys when visited."
+ },
+ {
+  "id": 240,
+  "True": "It was the middle of winter, so he was sure to wear a warm coat.",
+  "False": "It was the middle of summer, so he was sure to wear a warm coat."
+ },
+ {
+  "id": 241,
+  "True": "He knew if he went for a walk, he would cover about 2 miles in an hour.",
+  "False": "He knew if he went for a walk, he would cover about 100 miles in an hour."
+ },
+ {
+  "id": 242,
+  "True": "Janet went for the pizza grocery shopping today, she bought loads of cheese and sauces.",
+  "False": "Janet went for the pizza grocery shopping today, she bought loads of tubes and tires."
+ },
+ {
+  "id": 243,
+  "True": "Learning Japanese is more difficult than learning Italian",
+  "False": "Learning Italian is more difficult than learning Japanese"
+ },
+ {
+  "id": 244,
+  "True": "Since it's raining and my window is broken, I should cover the opening with a tarp now.",
+  "False": "Since it's raining and my window is broken, I should cover the opening with a tarp later."
+ },
+ {
+  "id": 245,
+  "True": "Children are taught to look both ways before crossing a dangerous street.",
+  "False": "Children are taught to look both ways before crossing a dangerous river."
+ },
+ {
+  "id": 246,
+  "True": "The basketball game will start in 10 minutes, so Craig will not be able to buy a new pair of shoes before the basketball game starts.",
+  "False": "The basketball game will start in 10 minutes, so Craig will be able to buy a new pair of shoes before the basketball game starts."
+ },
+ {
+  "id": 247,
+  "True": "Paula has a birthday next week. Paula decided to go to a party with her friends.",
+  "False": "Paula has a final exam next week. Paula decided to go to a party with her friends."
+ },
+ {
+  "id": 248,
+  "True": "Sam wanted to see the stars in the sky so he went outside at midnight.",
+  "False": "Sam wanted to see the stars in the sky so he went outside at dawn."
+ },
+ {
+  "id": 249,
+  "True": "Feeling my blood sugar drop I decided to order the appetizers because the main course was still two hours away.",
+  "False": "Feeling my blood sugar drop I decided not to order the appetizers because the main course was still two hours away."
+ },
+ {
+  "id": 250,
+  "True": "If you want vegetables to be smaller, then chop them up. ",
+  "False": "If you want vegetables to be larger, then chop them up. "
+ },
+ {
+  "id": 251,
+  "True": "Since I live in southern Australia, daylight lasts over 12 hours on Christmas.",
+  "False": "Since I live in southern Australia, daylight lasts under 12 hours on Christmas."
+ },
+ {
+  "id": 252,
+  "True": "Because I get off work around 10:00 pm, so it is usually dark outside.",
+  "False": "Because I get off work around 10:00 pm, so it is usually light outside."
+ },
+ {
+  "id": 253,
+  "True": "If the government decides today to form more engineers, it'll take at least four years to see the results.",
+  "False": "If the government decides today to form more engineers, it'll take no more than a year to see the results."
+ },
+ {
+  "id": 254,
+  "True": "Anushka borrowed money from her friend last month, she returned the money after adding interest to the amount.",
+  "False": "Anushka borrowed money from her friend last month, she returned the money after deducting interest from the amount."
+ },
+ {
+  "id": 255,
+  "True": "The longest gap between meals for most people is between dinner and breakfast.",
+  "False": "The longest gap between meals for most people is between breakfast and brunch."
+ },
+ {
+  "id": 256,
+  "True": "An hour after the sun goes down on a very hot day, the cement sidewalk will still feel warm to the touch.",
+  "False": "An hour after the sun goes down on a very hot day, the grassy lawn will still feel warm to the touch."
+ },
+ {
+  "id": 257,
+  "True": "If Edie gets mad when she loses at a game her friends will not want to play games with her again.",
+  "False": "If Edie doesn't get mad when she loses at a game her friends will not want to play games with her again."
+ },
+ {
+  "id": 258,
+  "True": "Kelly got in trouble because she took a bathroom break at school and didn’t return to class for thirty minutes. ",
+  "False": "Kelly got in trouble because she took a bathroom break at school and didn’t return to class for five minutes. "
+ },
+ {
+  "id": 259,
+  "True": "If you pull the trigger of an unloaded gun, you'll hear a click and it won't fire.",
+  "False": "If you pull the trigger of a loaded gun, you'll hear a click and it won't fire."
+ },
+ {
+  "id": 260,
+  "True": "Veronica’s dentist told her that in order to keep her teeth healthy, she should brush and floss two times a day. ",
+  "False": "Veronica’s dentist told her that in order to keep her teeth healthy, she should brush and floss twenty times a day. "
+ },
+ {
+  "id": 261,
+  "True": "Working back shift at the gas station makes me worry about getting robbed.",
+  "False": "Working back shift at the gas station makes me not worry about getting robbed."
+ },
+ {
+  "id": 262,
+  "True": "Sam plays the piano. He was confused when his best friend gave him a new violin for his birthday.",
+  "False": "Sam plays the piano. He was exhilarated when his best friend gave him a new violin for his birthday."
+ },
+ {
+  "id": 263,
+  "True": "Amanda has an appointment in fifteen minutes, so she shouldn't probably take a nap.",
+  "False": "Amanda has an appointment in fifteen minutes, so she should probably take a nap."
+ },
+ {
+  "id": 264,
+  "True": "She cannot go to the store before work because she will only have five minutes.",
+  "False": "She cannot go to the store before work because she will only have five hours."
+ },
+ {
+  "id": 265,
+  "True": "Alex has a social anxiety disorder so he enjoys staying home on weekends.",
+  "False": "Alex has a social anxiety disorder so he enjoys partying on weekends."
+ },
+ {
+  "id": 266,
+  "True": "Sam had to be home before the streetlights came on, so he was sure to get inside before sunset.",
+  "False": "Sam had to be home before the streetlights came on, so he was sure to get inside before dawn."
+ },
+ {
+  "id": 267,
+  "True": "If two people are walking down the street holding hands, they know each other.",
+  "False": "If two people are walking down the street holding hands, they don't know each other."
+ },
+ {
+  "id": 268,
+  "True": "People were happy to see the local basketball star David score 30 points in the game.",
+  "False": "People were bored to see the local basketball star David score 30 points in the game."
+ },
+ {
+  "id": 269,
+  "True": "If you want to open the fridge, then you should use the hand to open it",
+  "False": "If you want to open the fridge, then you should use the stick to open it"
+ },
+ {
+  "id": 270,
+  "True": "During the winter on northern hemisphere, it is summer in Australia",
+  "False": "During the winter on northern hemisphere, it is summer in Saudi Arabia"
+ },
+ {
+  "id": 271,
+  "True": "Doctor recommended Edward to run at least one mile a week so Edward spent five minutes running everyday at 20 mph",
+  "False": "Doctor recommended Edward to run at least one mile a week so Edward spent five minutes running everyday at 1 mph"
+ },
+ {
+  "id": 272,
+  "True": "The pandemic has made people very afraid to do normal things. ",
+  "False": "The pandemic has made people not afraid to do normal things. "
+ },
+ {
+  "id": 273,
+  "True": "Because I'm often dehydrated, I need to remember to drink a glass of water hourly.",
+  "False": "Because I'm often dehydrated, I need to remember to drink a glass of water weekly."
+ },
+ {
+  "id": 274,
+  "True": "He knows how to ride a bike, so surely he can ride a tricycle.",
+  "False": "He knows how to ride a bike, so surely he can ride a unicycle."
+ },
+ {
+  "id": 275,
+  "True": "If your computer freezes, hitting it as hard as you can will not help fix it.",
+  "False": "If your computer freezes, hitting it as hard as you can will help fix it."
+ },
+ {
+  "id": 276,
+  "True": "With her friend on fire Cynthia decided to not panic",
+  "False": "With her friend on fire Cynthia decided to panic"
+ },
+ {
+  "id": 277,
+  "True": "I he had fifty dollars to spend, he probably was able to afford to buy a t-shirt.",
+  "False": "I he had fifty dollars to spend, he probably was able to afford to buy a boat."
+ },
+ {
+  "id": 278,
+  "True": "If you look at your screen for hours at a time, you should dim your screen to preserve your eyesight.",
+  "False": "If you look at your screen for hours at a time, you should brighten your screen to preserve your eyesight."
+ },
+ {
+  "id": 279,
+  "True": "He can lift a 70 pound box, so he should be able to carry the chair.",
+  "False": "He can lift a 70 pound box, so he should be able to carry the granite slab."
+ },
+ {
+  "id": 280,
+  "True": "Brandy was swimming in the ocean and started panicking when she noticed a shark swimming towards her. ",
+  "False": "Brandy was swimming in a swimming pool and started panicking when she noticed a shark swimming towards her. "
+ },
+ {
+  "id": 281,
+  "True": "If Anne's outgrown her ballet slippers, she should buy at least a half size up from her current size.",
+  "False": "If Anne's outgrown her ballet slippers, she should buy at least a half size down from her current size."
+ },
+ {
+  "id": 282,
+  "True": "When it is raining outside there are less people walking their dogs.",
+  "False": "When it is raining outside there are more people walking their dogs."
+ },
+ {
+  "id": 283,
+  "True": "If you put mud on a hamburger, it will make it less appealing.",
+  "False": "If you put mud on a hamburger, it will make it more appealing."
+ },
+ {
+  "id": 284,
+  "True": "The robber made a poor choice of vehicle to get away in, so the cop cars took 2 minutes to catch up to the robber who on his bicycle.",
+  "False": "The robber made a poor choice of vehicle to get away in, so the cop cars took 2 hours to catch up to the robber who on his bicycle."
+ },
+ {
+  "id": 285,
+  "True": "The sea levels would rise if all the glaciers melted instantly.",
+  "False": "The sea levels would drop if all the glaciers melted slowly."
+ },
+ {
+  "id": 286,
+  "True": "Jan needed to serve the spaghetti to her family so she grabbed a fork.",
+  "False": "Jan needed to serve the spaghetti to her family so she grabbed a knife."
+ },
+ {
+  "id": 287,
+  "True": "My son wanted a pet, but since we live in an apartment we are only allowed to have caged animals, so I bought him a gerbil. ",
+  "False": "My son wanted a pet, but since we live in an apartment we are only allowed to have caged animals, so I bought him a dog. "
+ },
+ {
+  "id": 288,
+  "True": "A federal prison is being built near a residential area. More families would move away from the area.",
+  "False": "A federal prison is being built near a residential area. More families would migrate to the area."
+ },
+ {
+  "id": 289,
+  "True": " Since she didn't have a knife, she could try to cut the bread with a 'saws-all' blade.",
+  "False": " Since she didn't have a knife, she could try to cut the bread with a spoon."
+ },
+ {
+  "id": 290,
+  "True": "When Mary picks blueberries, she gathers them into a five-gallon bucket as she usually picks thousands of berries.",
+  "False": "When Mary picks blueberries, she gathers them into a quart bowl as she usually picks thousands of berries."
+ },
+ {
+  "id": 291,
+  "True": "From her house, it takes June about 30 minutes to get to the bus stop and 20 minutes to walk to school, so she doesn't take the bus.",
+  "False": "From her house, it takes June about 30 minutes to get to the bus stop and 20 minutes to walk to school, so she takes the bus."
+ },
+ {
+  "id": 292,
+  "True": "Tom got bored and decided to go on a vacation to Mexico",
+  "False": "Tom got assaulted and decided to go on a vacation to Mexico"
+ },
+ {
+  "id": 293,
+  "True": "If you are cook, it is important to make sure to note the expiry date of the item",
+  "False": "If you are cook, it is important to make sure to note the price of the item"
+ },
+ {
+  "id": 294,
+  "True": "A buffalo does need to drink water in order to survive",
+  "False": "A buffalo does not need to drink water in order to survive"
+ },
+ {
+  "id": 295,
+  "True": "I bought a new mattress, which measures 10 feet long by 10 feet wide, and the doorway to my apartment is 84 inches high and 40 inches across,so I won't be able to get it into my apartment.",
+  "False": "I bought a new mattress, which measures 10 feet long by 10 feet wide, and the doorway to my apartment is 84 inches high and 40 inches across,so I won't have any trouble getting it into the apartment. "
+ },
+ {
+  "id": 296,
+  "True": "Since the party is tomorrow, I have time to go and buy a fantastic dress.",
+  "False": "Since the party is in a few minutes, I have time to go and buy a fantastic dress."
+ },
+ {
+  "id": 297,
+  "True": "Given his decrease in business it would be a bad time to get a car loan.",
+  "False": "Given his increase in business it would be a good time to get a car loan."
+ },
+ {
+  "id": 298,
+  "True": "I needed to get to work, so I had to think about how long it would take the next bus to arrive, I estimated about 10 minutes.",
+  "False": "I needed to get to work, so I had to think about how long it would take the next bus to arrive, I estimated about 10 hours."
+ },
+ {
+  "id": 299,
+  "True": "The new zoo opened with 4 cheetah pairs, but the people there didn't think this was too many.",
+  "False": "The new zoo opened with 20 cheetahs, but the people there didn't think this was too many."
+ },
+ {
+  "id": 300,
+  "True": "Samantha's fingers have gotten so cold that they are becoming numb.  If she wants to warm them up, she cannot just put them in the microwave.",
+  "False": "Samantha's fingers have gotten so cold that they are becoming numb.  If she wants to warm them up, she can just put them in the microwave."
+ },
+ {
+  "id": 301,
+  "True": "Tim didn't want any noise bothering him so he put on some headphones.",
+  "False": "Tim didn't want any noise bothering him so he put on some AirPods."
+ },
+ {
+  "id": 302,
+  "True": "Since he didn't have a nail, he could use a screw to put hang a picture up.",
+  "False": "Since he didn't have a nail, he could use a needle to hang a picture up.."
+ },
+ {
+  "id": 303,
+  "True": "When Beth thought everyone forgot her birthday, she was so excited to see fifty of her friends show up to her surprise party.",
+  "False": "When Beth thought everyone forgot her birthday, she was so saddened to see fifty of her friends show up to her surprise party."
+ },
+ {
+  "id": 304,
+  "True": "Tim works 80 hours per week, so he is not able to hang out with his friends very often.",
+  "False": "Tim works 80 hours per week, so he is able to hang out with his friends very often."
+ },
+ {
+  "id": 305,
+  "True": "Sally wants to loose weight to fit in her old dress so she will diet to loose ten pounds.",
+  "False": "Sally wants to loose weight to fit in her old dress so she will diet to loose one pound."
+ },
+ {
+  "id": 306,
+  "True": "Rose cooking for 50 people, Because her 50 friends coming to visit her",
+  "False": "Rose cooking for 50 people, Because her 5 friends coming to visit her"
+ },
+ {
+  "id": 307,
+  "True": "Since the kids get home from soccer practice in half an hour, I should start making dinner now.",
+  "False": "Since the kids get home from soccer practice in four hours, I should start making dinner now."
+ },
+ {
+  "id": 308,
+  "True": "Knowing she was going to see a double feature Kelly set her phone volume on silent during the movie.",
+  "False": "Knowing she was going to see a double feature Kelly set her phone volume on high during the movie."
+ },
+ {
+  "id": 309,
+  "True": "A person who operates a motor vehicle while intoxicated is considered irresponsible.",
+  "False": "A person who operates a motor vehicle while intoxicated is considered responsible."
+ },
+ {
+  "id": 310,
+  "True": "John has a mandatory Zoom meeting in 10 minutes, so he has time for a quick breakfast.",
+  "False": "John has a mandatory Zoom meeting in 2 hours, so he does not have time for a quick breakfast."
+ },
+ {
+  "id": 311,
+  "True": "If Hazel cannot cook her eggs on the stove, she can cook them in the microwave.",
+  "False": "If Hazel cannot cook her eggs on the stove, she can cook them in the toaster."
+ },
+ {
+  "id": 312,
+  "True": "Since Rebecka was trying to learn French, she spend an hour each day practicing.",
+  "False": "Since Rebecka was trying to learn French, she spend thirty seconds each day practicing."
+ },
+ {
+  "id": 313,
+  "True": "My t-shirt is dirty so I will wash it.",
+  "False": "My t-shirt is dirty so I will wear it."
+ },
+ {
+  "id": 314,
+  "True": "Jen waited 20 minutes before drinking the frozen water so it was good to drink.",
+  "False": "Jen waited 20 minutes before drinking the frozen water so it was spoiled."
+ },
+ {
+  "id": 315,
+  "True": "The six cheerleaders formed a perfect pyramid.",
+  "False": "The four cheerleaders formed a perfect pyramid."
+ },
+ {
+  "id": 316,
+  "True": "Mary's heating system is broken, she cannot therefore use the toaster to heat her home.",
+  "False": "Mary's heating system is broken, she can therefore use the toaster to heat her home.  "
+ },
+ {
+  "id": 317,
+  "True": "When I open and close the door, the hinges squeak and squeal, to solve this I needed to add lubricants to the hinges. ",
+  "False": "When I open and close the door, the hinges squeak and squeal, to solve this I needed to remove lubricants from the hinges. "
+ },
+ {
+  "id": 318,
+  "True": "Alison does not like loud noises.  She is likely to invite all of the children in the neighborhood to play in her house.",
+  "False": "Alison does not like loud noises.  She is unlikely to invite all of the children in the neighborhood to play in her house."
+ },
+ {
+  "id": 319,
+  "True": "Tim took a nap for 1 hour which made him better able to complete his chores.",
+  "False": "Tim took a nap for 8 hours which made him better able to complete his chores."
+ },
+ {
+  "id": 320,
+  "True": "Tim's parents are in financial trouble and don't provide him with much food, so Tim appreciates the free meal he gets from school.",
+  "False": "Tim's parents are rich and he eats 5 star meals everyday, so Tim appreciates the free meal he gets from school."
+ },
+ {
+  "id": 321,
+  "True": "If I comb my Sphynx cat, the comb will be empty of fur.",
+  "False": "If I comb my Sphynx cat, the comb will be full of fur."
+ },
+ {
+  "id": 322,
+  "True": "Jane got some weird looks because she wore sunglasses outside at 4 AM.",
+  "False": "Jane got some weird looks because she wore sunglasses outside at 4 PM."
+ },
+ {
+  "id": 323,
+  "True": "John called out to his friend but he didn't hear him as he was a mile away. ",
+  "False": "John called out to his friend but he didn't hear him as he was an arm's length away. "
+ },
+ {
+  "id": 324,
+  "True": "As winter approaches in North America, the average daily temperature decreases.",
+  "False": "As winter approaches in North America, the average daily temperature increases."
+ },
+ {
+  "id": 325,
+  "True": "Since she didn't have a thimble she could try protecting her finger with a spoon.",
+  "False": "Since she didn't have a thimble she could try protecting her finger with some cotton."
+ },
+ {
+  "id": 326,
+  "True": "Adults were not allowed to see the show, so 35-year-old Matt, who was looking forward to it, was quite disappointed.",
+  "False": "Adults were not allowed to see the show, so 15-year-old Matt, who was looking forward to it, was quite disappointed."
+ },
+ {
+  "id": 327,
+  "True": "Jack was glad to finally be able to take his son to the bar for his twenty-first birthday.",
+  "False": "Jack was glad to finally be able to take his son to the bar for his seventeenth birthday."
+ },
+ {
+  "id": 328,
+  "True": "Since all my clothes are dirty, in a pinch I can cover myself with a bed sheet instead.",
+  "False": "Since all my clothes are dirty, in a pinch I can cover myself with some plates and bowls instead."
+ },
+ {
+  "id": 329,
+  "True": "Sara aims to get the recommended 8 hours of sleep and has to get up for work at 9:00AM. In order to achieve this goal, Sara would need to go to bed at 1:00AM. ",
+  "False": "Sara aims to get the recommended 8 hours of sleep and has to get up for work at 9:00AM. In order to achieve this goal, Sara would need to go to bed at 5:00AM. "
+ },
+ {
+  "id": 330,
+  "True": "Jim is planning on buying a car for his eighteen-year-old daughter as a graduation present.",
+  "False": "Jim is planning on buying a car for his twelve-year-old daughter as a graduation present."
+ },
+ {
+  "id": 331,
+  "True": "If it is currently January, children who are in school will have to wait six months before they can go on a three month camping trip.",
+  "False": "If it is currently April, children who are in school will have to wait six months before they can go on a three month camping trip."
+ },
+ {
+  "id": 332,
+  "True": "As the band starts playing in 30 seconds,  she'll miss the first song if she goes to the restroom now. ",
+  "False": "As the band starts playing in 30 minutes,  she'll miss the first song if she goes to the restroom now. "
+ },
+ {
+  "id": 333,
+  "True": "Sam's stocks have increased 13% in 2 years so Sam was not happy.",
+  "False": "Sam's stocks have increased 13% in 2 days so Sam was not happy."
+ },
+ {
+  "id": 334,
+  "True": "New karate student, Bob, knows that with hard work, he can get his black belt in 4 years.",
+  "False": "New karate student, Bob, knows that with hard work, he can get his black belt in 4 months."
+ },
+ {
+  "id": 335,
+  "True": "Tom wanted his hair to stand up straight so he put hair spray in it.",
+  "False": "Tom wanted his hair to stand up straight so he put mousse in it."
+ },
+ {
+  "id": 336,
+  "True": "I only have 4 years until I graduate and we want to get married before I have a degree, and so we are planning our wedding for 3 years from now.",
+  "False": "I only have 4 years until I graduate and we want to get married before I have a degree, and so we are planning our wedding for 5 years from now."
+ },
+ {
+  "id": 337,
+  "True": "As he started learning the violin since yesterday, it is not likely that he will be part of the orchestra this Saturday.",
+  "False": "As he started learning violin since yesterday, it is likely that he will be part of the orchestra this Saturday."
+ },
+ {
+  "id": 338,
+  "True": "If I need to make some noise to get my kids attention, if I bang on a pot with a spoon, they'll probably hear me.",
+  "False": "If I need to make some noise to get my kids attention, if I bang on a pot with a piece of paper, they'll probably hear me."
+ },
+ {
+  "id": 339,
+  "True": " As she has to be at school in 10 minutes, she has to hurry up to make it across the town.",
+  "False": " As she has to be at school in 10 hours, she has to hurry up to make it across the town."
+ },
+ {
+  "id": 340,
+  "True": "Johnny shipped out the chemistry textbook from his Arizona home to his cousin in Germany because she has an exam in a month.",
+  "False": "Johnny shipped out the chemistry textbook from his Arizona home to his cousin in Germany because she has an exam in an hour."
+ },
+ {
+  "id": 341,
+  "True": "John and Amy started walking up the mountain this morning and are  unlikely to complete the 96 hour trek by this evening.",
+  "False": "John and Amy started walking up the mountain this morning and are likely to complete the 96 hour trek by this evening."
+ },
+ {
+  "id": 342,
+  "True": "If you don't have a piece of tape, you can use paste to attach the paper to the board.",
+  "False": "If you don't have a piece of tape, you can use a q-tip to attach the paper to the board."
+ },
+ {
+  "id": 343,
+  "True": "Although six pallbearers can carry the coffin, it should be easier for eight pallbearers to do so.",
+  "False": "Although six pallbearers can carry the coffin, it should for two pallbearers to do so."
+ },
+ {
+  "id": 344,
+  "True": "The sun sets at six o'clock in the evening, so Tim leaves the porch light on when he leaves at eight o'clock in the morning because he knows he will be gone for twelve hours.",
+  "False": "The sun sets at six o'clock in the evening, so Tim leaves the porch light on when he leaves at eight o'clock in the morning because he knows he will be gone for seven hours."
+ },
+ {
+  "id": 345,
+  "True": "It is a hot day, so Fenton grabbed a big, red popsicle.  If Fenton doesn't want to stain the floor, he should stand in the room with the linoleum floor.",
+  "False": "It is a hot day, so Fenton grabbed a big, red popsicle.  If Fenton doesn't want to stain the floor, he should stand in the room with the carpeted floor."
+ },
+ {
+  "id": 346,
+  "True": "The kids got their ball out of the tall tree with a long pole.",
+  "False": "The kids got their ball out of the tall tree with a short pole."
+ },
+ {
+  "id": 347,
+  "True": "Since she needs one bottle of soda Sally can carry it home.",
+  "False": "Since she needs one case of soda Sally can carry it home."
+ },
+ {
+  "id": 348,
+  "True": "Because the dentist cleaned my teeth today, I made an appointment for another cleaning in six months.",
+  "False": "Because the dentist cleaned my teeth today, I made an appointment for another cleaning tomorrow."
+ },
+ {
+  "id": 349,
+  "True": "If I spit a grape through the air and into the other room, it would probably not hit the floor until a second or two later.",
+  "False": "If I spit a grape through the air and into the other room, it would probably not hit the floor until a minute or two later."
+ },
+ {
+  "id": 350,
+  "True": "If Marcia is planning to buy a horse, she will need to save several hundred dollars.",
+  "False": "If Marcia is planning to buy a horse, she will need to save several dollars."
+ },
+ {
+  "id": 351,
+  "True": "Lucy is watching a movie that has 40 minutes left, she has to pick up her kids in 60 minutes so she should finish the movie now.",
+  "False": "Lucy is watching a movie that has 40 minutes left, she has to pick up her kids in 10 minutes so she should finish the movie now."
+ },
+ {
+  "id": 352,
+  "True": "James was viewed as weird because he put water in his cereal.",
+  "False": "James was viewed as weird because he put milk in his cereal."
+ },
+ {
+  "id": 353,
+  "True": "They were dating for a while, so he gave her an expensive gift.",
+  "False": "They were dating for a while, so he introduced himself."
+ },
+ {
+  "id": 354,
+  "True": "If you have trouble staying alert while working you should turn all of your lights on.",
+  "False": "If you have trouble staying alert while working you should turn all of your lights off."
+ },
+ {
+  "id": 355,
+  "True": "Kim, a waitress, would likely be thrilled to receive a one-hundred dollar tip from her customer.",
+  "False": "Kim, a waitress, would likely be thrilled to receive a one dollar tip from her customer."
+ },
+ {
+  "id": 356,
+  "True": "John was late for the office today, so instead of breakfast he ate yesterday's dinner.",
+  "False": "John was late for the office today, so instead of breakfast he ate tomorrow's dinner."
+ },
+ {
+  "id": 357,
+  "True": "The recipe calls for 1 cup of sugar, so 8 ounces of sugar should be enough.",
+  "False": "The recipe calls for 1 cup of sugar, so 4 ounces of sugar should be enough."
+ },
+ {
+  "id": 358,
+  "True": "When you have to be at the school by 9:00 AM then you must leave the house by 8:00 AM",
+  "False": "When you have to be at the school by 9:00 AM then you must leave the house by 9:00 AM"
+ },
+ {
+  "id": 359,
+  "True": "A human being can legally drink alcohol after 30 years of living.",
+  "False": "A human being can not legally drink alcohol after 30 years of living."
+ },
+ {
+  "id": 360,
+  "True": "Buying the whole family gifts two weeks before Christmas should give a sufficient amount of time to wrap them all. ",
+  "False": "Buying the whole family gifts the day before Christmas should give a sufficient amount of time to wrap them all. "
+ },
+ {
+  "id": 361,
+  "True": "Since it was snowing I put my coat on to go outside.",
+  "False": "Since it was snowing I put my coat on to go inside."
+ },
+ {
+  "id": 362,
+  "True": "Technology from the 18th century was less convenient that what we have today, so it is undesirable to travel back in time.",
+  "False": "Technology from the 18th century was more convenient that what we have today, so it is undesirable to travel back in time."
+ },
+ {
+  "id": 363,
+  "True": "If a football team is down 7 points with 1 minute left, it would be difficult to make a comeback.",
+  "False": "If a football team is down 7 points with 30 minutes left, it would be difficult to make a comeback."
+ },
+ {
+  "id": 364,
+  "True": "If it only takes me a half hour to get ready for work, and my alarm goes off an hour before I have to leave, I can comfortably hit the snooze alarm once or twice.",
+  "False": "If it only takes me a half hour to get ready for work, and my alarm goes off an hour before I have to leave, I can comfortably hit the snooze alarm five times."
+ },
+ {
+  "id": 365,
+  "True": "People would not respect you if you live off of your elderly mom.",
+  "False": "People would admire you if you live off of your elderly mom."
+ },
+ {
+  "id": 366,
+  "True": "Because it was winter in New York, I had to wear a t-shirt.",
+  "False": "Because it was winter in Australia, I had to wear a t-shirt."
+ },
+ {
+  "id": 367,
+  "True": "When you water your outdoor plants you should use a watering can to obtain water.",
+  "False": "When you water your outdoor plants you should use a sink to obtain water."
+ },
+ {
+  "id": 368,
+  "True": "As he worked very hard during his younger years, he became rich but his health had deteriorated.",
+  "False": "As he worked very hard during his younger years, he became poor but his health had improved."
+ },
+ {
+  "id": 369,
+  "True": "A man who can bench press two hundred pounds can easily lift a small child.",
+  "False": "A man who can bench press two hundred pounds cannot easily lift a small child."
+ },
+ {
+  "id": 370,
+  "True": "Jane was cooking a frozen turkey for dinner, so she took it out of the freezer the day before.",
+  "False": "Jane was cooking a frozen turkey for dinner, so she took it out of the freezer an hour before dinner."
+ },
+ {
+  "id": 371,
+  "True": "Sandy's boat was too heavy to tow with her compact car so she decided to use her pickup truck to tow it.",
+  "False": "Sandy's boat was too heavy to tow with her compact car so she decided to use her bicycle to tow it."
+ },
+ {
+  "id": 372,
+  "True": "Jake didn't have a dust pan, so he used a paper plate to pick up what he swept. ",
+  "False": "Jake didn't have a dust pan, so he used a sponge to pick up what he swept. "
+ },
+ {
+  "id": 373,
+  "True": "The child's scream was so high-pitched that our ears hurt",
+  "False": "The child's scream was so low-pitched that our ears hurt"
+ },
+ {
+  "id": 374,
+  "True": "Trevor is extremely hungry, so he would likely be happy to eat in 5 minutes.",
+  "False": "Trevor is extremely hungry, so he would likely be happy to eat in 5 hours."
+ },
+ {
+  "id": 375,
+  "True": "At night I sleep for six hours, I wake up when the sun rises.",
+  "False": "At night I sleep for six hours, I wake up when the sun sets."
+ },
+ {
+  "id": 376,
+  "True": "Jimmy was excited that he was almost finished reading the novel. He had less than 10 pages left to read.",
+  "False": "Jimmy was excited that he was almost finished reading the novel. He had about 500 pages left to read."
+ },
+ {
+  "id": 377,
+  "True": "On a sunny day, plants can make carbohydrates out of water and carbon dioxide.",
+  "False": "On a sunny day, rabbits can make carbohydrates out of water and carbon dioxide."
+ },
+ {
+  "id": 378,
+  "True": "Carol makes sure to never leave her toddler in her car when she goes in to the grocery store during summer months.",
+  "False": "Carol makes sure to crack the windows when she leaves her toddler in her car when she goes in to the grocery store during summer months. "
+ },
+ {
+  "id": 379,
+  "True": "Tim was sick so he used hand sanitizer to make it less likely that he would spread his germs.",
+  "False": "Tim was sick so he used disinfectants to make it less likely that he would spread his germs."
+ },
+ {
+  "id": 380,
+  "True": "If the dress is a size six and it is too snug, a size eight would be better.",
+  "False": "If the dress is a size six and it is too snug, a size four would be better."
+ },
+ {
+  "id": 381,
+  "True": "One man can untie a knot in three minutes; ten men will need at least three minutes to untie ten such knots.",
+  "False": "One man can untie a knot in three minutes; ten men will need at least thirty minutes to untie ten such knots."
+ },
+ {
+  "id": 382,
+  "True": "Susie is very hungry so she can eat 2 whole hamburgers.",
+  "False": "Susie is hungry so she can eat 5 whole hamburgers"
+ },
+ {
+  "id": 383,
+  "True": "Because she can carry a coffin, carrying a baby kitten would be very easy. ",
+  "False": "Because she can carry a coffin, carrying a baby kitten would be very hard. "
+ },
+ {
+  "id": 384,
+  "True": "If you give your deaf friend Mariah Carey's Greatest Hits album as a gift, he or she will not find it considerate and thoughtful.",
+  "False": "If you give your deaf friend Mariah Carey's Greatest Hits album as a gift, he or she will find it considerate and thoughtful."
+ },
+ {
+  "id": 385,
+  "True": "I decided to grow a tree so that my family could benefit from it in 5 decades.",
+  "False": "I decided to grow a tree so that my family could benefit from it in 5 months."
+ },
+ {
+  "id": 386,
+  "True": "If it is dark outside opening the blinds will not help you see.",
+  "False": "If it is dark outside opening the blinds will help you see."
+ },
+ {
+  "id": 387,
+  "True": "The movie will start at 3:00 PM, so the couple wants to go the theatre by 2:30 PM",
+  "False": "The movie will start at 3:00 PM, so the couple wants to go the theatre by 3:30 PM"
+ },
+ {
+  "id": 388,
+  "True": "If you see a man passed out in the street, you should not take stuff from his pocket.",
+  "False": "If you see a man passed out in the street, you should take stuff from his pocket."
+ },
+ {
+  "id": 389,
+  "True": "If I buy the ingredients for pizza tomorrow, I can eat pizza tomorrow.",
+  "False": "If I buy the ingredients for pizza tomorrow, I can have it for dinner tonight."
+ },
+ {
+  "id": 390,
+  "True": "A man needed to weigh down a piece of paper, he used a brick.",
+  "False": "A man needed to weigh down a piece of paper, he used a paperclip. "
+ },
+ {
+  "id": 391,
+  "True": "Global warming cannot cause global temperatures to increase 90 degrees Celsius in one year.",
+  "False": "Global warming can cause global temperatures to increase 90 degrees Celsius in one year."
+ },
+ {
+  "id": 392,
+  "True": "December is approaching so that John's store in Australia sells out fans quickly",
+  "False": "December is approaching so that John's store in Australia sells out coats and mittens quickly"
+ },
+ {
+  "id": 393,
+  "True": "Sam is going on a camping trip and needs a tent but since he doesn't have one he uses a plastic sheet draped over a cord instead.",
+  "False": "Sam is going on a camping trip and needs a tent but since he doesn't have one he uses an umbrella instead."
+ },
+ {
+  "id": 394,
+  "True": "Jack decided not to join robbery because he doesn't want to get jailed",
+  "False": "Jack decided to join robbery because he doesn't want to get jailed"
+ },
+ {
+  "id": 395,
+  "True": "If your plants are turning brown, pour water on them.",
+  "False": "If your plants are turning brown, pour oil on them."
+ },
+ {
+  "id": 396,
+  "True": "She wanted to write her name in sand but she didn't have a stick, so she used her foot instead.",
+  "False": "She wanted to write her name in sand but she didn't have a stick, so she used her eyelashes instead."
+ },
+ {
+  "id": 397,
+  "True": "Tom had to work the night shift so he got home from work at 10 PM.",
+  "False": "Tom had to work the night shift so he got home from work at 5 PM."
+ },
+ {
+  "id": 398,
+  "True": "Jason likes to work during back shift at the grocery store because there are less customers.",
+  "False": "Jason likes to work during back shift at the grocery store because there are more customers."
+ },
+ {
+  "id": 399,
+  "True": "An amateur juggler might be able to juggle four snowballs of the same size and weight.",
+  "False": "An amateur juggler might be able to juggle four televisions of the same size and weight."
+ },
+ {
+  "id": 400,
+  "True": "If a person hands you a gift, you should open it.",
+  "False": "If a person hands you a gift, you should set it down."
+ },
+ {
+  "id": 401,
+  "True": "Tim wants to marry one of his students, Mary, but it might upset his family.",
+  "False": "Tim wants to marry one of his students, Mary, it might make his family happy."
+ },
+ {
+  "id": 402,
+  "True": "Sonja only has half a liter of wine for dinner. She would be happier if she had a gallon of wine.",
+  "False": "Sonja only has a gallon of wine for dinner. She would be happier if she had half a liter of wine."
+ },
+ {
+  "id": 403,
+  "True": "Ren had a hard time trying to work up the courage to ask the girl out because she was popular in school.",
+  "False": "Ren had a hard time trying to work up the courage to ask the girl out because she was unpopular in school."
+ },
+ {
+  "id": 404,
+  "True": "In a supermarket, a gallon bottle of coke is cheaper than a can of coke in terms of price per ounce.",
+  "False": "In a supermarket, a gallon bottle of coke is more expensive than a can of coke in terms of price per ounce."
+ },
+ {
+  "id": 405,
+  "True": "Tammy likes walking in the hot weather so she chose to walk when it was 90 degrees.",
+  "False": "Tammy likes walking in the snowy weather so she chose to walk when it was 90 degrees."
+ },
+ {
+  "id": 406,
+  "True": "Sam got food poisoning from eating bad kung pao chicken yesterday. He is unlikely to go back to Chinese restaurants soon.",
+  "False": "Sam got food poisoning from eating bad kung pao chicken yesterday. He is likely to go back to Chinese restaurants soon."
+ },
+ {
+  "id": 407,
+  "True": "When the weather is cold, wearing gloves can help keep me warm. ",
+  "False": "When the weather is cold, wearing gloves can help keep me cool. "
+ },
+ {
+  "id": 408,
+  "True": "Since she hasn't started her new job yet, she hasn't completed the forty hours of necessary orientation training.",
+  "False": "Since she hasn't started her new job yet, she has already completed the forty hours of necessary orientation training."
+ },
+ {
+  "id": 409,
+  "True": "For pumpkins to be ready for Halloween, their seeds must be planted in early April.",
+  "False": "For pumpkins to be ready for Halloween, their seeds must be planted in early October."
+ },
+ {
+  "id": 410,
+  "True": "Not expecting to stop for lunch after school, Sally told her mom she would be home at midnight.",
+  "False": "Not expecting to stop for lunch after school, Sally told her mom she would be home at noon."
+ },
+ {
+  "id": 411,
+  "True": "Nora was distrusting of her friends, so she followed them around and recorded what they did.",
+  "False": "Nora was trusting of her friends, so she followed them around and recorded what they did."
+ },
+ {
+  "id": 412,
+  "True": "Greta needed to lower her salt intake due to her poor health, so she decided it would be wise to have an apple for a snack. ",
+  "False": "Greta needed to lower her salt intake due to her poor health, so she decided it would be wise to have potato chips for a snack. "
+ },
+ {
+  "id": 413,
+  "True": "After Jim's 16th birthday, his dad took him to get his driver's license",
+  "False": "After Jim's 13th birthday, his dad took him to get his driver's license"
+ },
+ {
+  "id": 414,
+  "True": "If it is sunny outside, wearing a wide-brimmed hat should protect my face from sunburn. ",
+  "False": "If it is sunny outside, wearing a long-sleeved shirt should protect my face from sunburn. "
+ },
+ {
+  "id": 415,
+  "True": "If the order takes 5 days to prepare, she will tell the customer it will be ready in a week.",
+  "False": "If the order takes 5 days to prepare, she will tell the customer it will be ready tomorrow."
+ },
+ {
+  "id": 416,
+  "True": "If a jaguar at 5 miles distance start running to me at 5 miles per hour, it will take 1 hour to reach me.",
+  "False": "If a jaguar at 5 miles distance start running to me at 5 miles per hour, it will take 2 hours to reach me."
+ },
+ {
+  "id": 417,
+  "True": "I planted some tulip bulbs in the fall, so I can expect for them to bloom next spring.",
+  "False": "I planted some tulip bulbs in the fall, so I can expect for them to bloom next winter."
+ },
+ {
+  "id": 418,
+  "True": "Anne is getting old, so she gets tired more easily at work",
+  "False": "Anne is getting old, so she gets tired less easily at work "
+ },
+ {
+  "id": 419,
+  "True": "Mike accepted the Ben's Job offer, Because he is jobless",
+  "False": "Mike rejected the Ben's Job offer, Because he is jobless"
+ },
+ {
+  "id": 420,
+  "True": "Because my three-year-old was on a sugar high, I did not expect her to calm down for hours.",
+  "False": "Because my three-year-old was on a sugar high, I expected her to calm down shortly."
+ },
+ {
+  "id": 421,
+  "True": "Karen is going on a weekend camping trip with her friends, which means she will be gone for two days.",
+  "False": "Karen is going on a weekend camping trip with her friends, which means she will be gone for seven days."
+ },
+ {
+  "id": 422,
+  "True": "If you plant a patch of tomatoes, they will likely be grown in 1 month.",
+  "False": "If you plant a patch of tomatoes, they will likely be grown in 1 day."
+ },
+ {
+  "id": 423,
+  "True": "Because the delivery man took two hours to deliver our pizza, it will be cold.",
+  "False": "Because the delivery man took 20 minutes to deliver our pizza, it will be cold."
+ },
+ {
+  "id": 424,
+  "True": "By dedicating time to studying, I'll have better chances to pass the exams and my parents will be proud of me.",
+  "False": "By dedicating time to studying, I'll have better chances to pass the exams and my parents will be worried about me."
+ },
+ {
+  "id": 425,
+  "True": "Amy needed some grocery, she ordered online from nearest grocery store.",
+  "False": "Amy needed some grocery, she ordered online from nearest pharmacy."
+ },
+ {
+  "id": 426,
+  "True": "If you want to bring in the outside air you should put your fan in the window.",
+  "False": "If you want to bring in the outside air you should put your fan in the closet."
+ },
+ {
+  "id": 427,
+  "True": "When you go outside and want to prevent sunburn you should put on sunscreen",
+  "False": "When you go outside and want to enhance sunburn you should put on sunscreen"
+ },
+ {
+  "id": 428,
+  "True": "John leaves work at 6 pm so that he is an unlikely suspect for theft that happened in the office at 8 pm.",
+  "False": "John leaves work at 6 pm so that he is a likely suspect for theft that happened in the office at 8 pm."
+ },
+ {
+  "id": 429,
+  "True": "Washing clothes will make them smell better. ",
+  "False": "Washing clothes will make them smell worse. "
+ },
+ {
+  "id": 430,
+  "True": "Bill is obese and would love to lose some pounds, so he would feel content to lose fifty pounds over six months.",
+  "False": "Bill is obese and would love to lose some pounds, so he would feel content to lose two pounds over six months."
+ },
+ {
+  "id": 431,
+  "True": "Ryan buying his son alcohol for his twenty-first birthday is legal.",
+  "False": "Ryan buying his son alcohol for his seventh birthday is legal."
+ },
+ {
+  "id": 432,
+  "True": "If I poke a balloon with a needle I would anticipate a loud popping noise soon after.",
+  "False": "If I poke a balloon with a needle I would anticipate a soft noise soon after."
+ },
+ {
+  "id": 433,
+  "True": "Clarissa just bought a two thousand dollar laptop on credit, so she will not want to buy a designer handbag. ",
+  "False": "Clarissa just bought a two thousand dollar laptop on credit, so she will also want to buy a designer handbag. "
+ },
+ {
+  "id": 434,
+  "True": "If clock on the wall stops working, I can get the time from my watch.",
+  "False": "If the clock on the wall stops working, I can get the time from my chair."
+ },
+ {
+  "id": 435,
+  "True": "Johnson was born on 29th February, he throws a big party every 4th year, on his actual birth date.",
+  "False": "Johnson was born on 29th February, he throws a big party every year, on his actual birth date."
+ },
+ {
+  "id": 436,
+  "True": "After Robin was born,  everyone said he had his mother's eyes. ",
+  "False": "Before Robin was born, everyone said he had his mother's eyes. "
+ },
+ {
+  "id": 437,
+  "True": "Since she does not work until tonight she can go to the store this morning.",
+  "False": "Since she does not work until tonight she cannot go to the store this morning."
+ },
+ {
+  "id": 438,
+  "True": "Tom has prostate problems so he prefers to sit near the aisle during a long flight.",
+  "False": "Tom has prostate problems so he prefers to sit near the window during a long flight."
+ },
+ {
+  "id": 439,
+  "True": "Since the basketball is completely deflated, we cannot bounce it on the basketball court.",
+  "False": "Since the basketball is fully inflated, we cannot bounce it on the basketball court."
+ },
+ {
+  "id": 440,
+  "True": "Anne had a small apartment so it would not be ok if everyone had to stay for a few days.",
+  "False": "Anne had a small apartment so it would be ok if everyone had to stay for a few days."
+ },
+ {
+  "id": 441,
+  "True": "Alex  said to Professor ,\"Sir, I love you, you love your daughter, so I indirectly love your daughter.",
+  "False": "Alex  said to Professor ,\"Sir, I love you, you love your daughter, so I directly love your daughter."
+ },
+ {
+  "id": 442,
+  "True": "My new video game is too graphically intensive to operate on my computer, so now I have to upgrade.",
+  "False": "My new video game is too graphically intensive to operate on my computer, so now I have to downgrade. "
+ },
+ {
+  "id": 443,
+  "True": "As somebody who likes to keep their liquids secure, ensuring that all lids are kept on tightly is paramount to preventing spills.",
+  "False": "As somebody who likes to keep their liquids secure, ensuring that all lids are kept on loosely is paramount to preventing spills."
+ },
+ {
+  "id": 444,
+  "True": "Rebecca's wedding was today, so she put on her dress before the ceremony.",
+  "False": "Rebecca's wedding was today, so she put on her dress during the ceremony."
+ },
+ {
+  "id": 445,
+  "True": "I want to start paying off all of my credit cards, so I should first pay off the credit card with the highest interest rate at 20%.",
+  "False": "I want to start paying off all of my credit cards, so I should first pay off the credit card with the lowest interest rate at 0%."
+ },
+ {
+  "id": 446,
+  "True": "birds will fly south in the wintertime ",
+  "False": "birds will fly north in the wintertime"
+ },
+ {
+  "id": 447,
+  "True": "If I am looking for diamonds, I should mine somewhere where the contents have been under pressure for one billion years.",
+  "False": "If I am looking for diamonds, I should mine somewhere where the contents have been under pressure for one hundred years."
+ },
+ {
+  "id": 448,
+  "True": "My son got bad grades, so I decided to try to help him with his homework.",
+  "False": "My son got bad grades, so I decided to try to help him with his video games."
+ },
+ {
+  "id": 449,
+  "True": "Jane loved to upset her parents with loud noises so she threw a ceramic plate on the floor. ",
+  "False": "Jane loved to upset her parents with loud noises so she threw a paper plate on the floor. "
+ },
+ {
+  "id": 450,
+  "True": "Alice has 30 minutes until she has to submit her essay so she does not have time to perform more research on the subject.",
+  "False": "Alice has 30 minutes until she has to submit her essay so she has time to perform more research on the subject."
+ },
+ {
+  "id": 451,
+  "True": "Since Mary is having a Caesarean section in 2 hours, she has a lot of time to give her family directions to the hospital.",
+  "False": "Since Mary is having a Caesarean section in 2 hours, she has no time to give her family directions to the hospital."
+ },
+ {
+  "id": 452,
+  "True": "Since Phoebe did not have a hair elastic, she could try to put her hair in a pony tail with a rubber band. ",
+  "False": "Since Phoebe did not have a hair elastic, she could try to put her hair in a pony tail with a paper clip."
+ },
+ {
+  "id": 453,
+  "True": "The girl's appointment was at 8am, so she had very little time to get to her class at 8:30am",
+  "False": "The girl's appointment was at 8am, so she had a lot of time to get to her class at 8:30am"
+ },
+ {
+  "id": 454,
+  "True": "If it rains outside, wearing sunscreen would not help you stay dry.",
+  "False": "If it rains outside, wearing sunscreen would help you stay dry."
+ },
+ {
+  "id": 455,
+  "True": "As he wanted to ensure that he can meet his expenses after retirement smoothly, he saved money regularly. ",
+  "False": "As he wanted to ensure that he can meet his expenses after retirement smoothly, he spent money lavishly."
+ },
+ {
+  "id": 456,
+  "True": "Lisa usually goes to bed by 10 pm, so she wanted to read a chapter of a book at 9:30 pm. ",
+  "False": "Lisa usually goes to bed by 10 pm, so she wanted to read 10 chapters of a book at 9:30 pm. "
+ },
+ {
+  "id": 457,
+  "True": "Tom wanted to become a BMX rider so he bought a bike.",
+  "False": "Tom wanted to become a BMX rider so he bought a skateboard."
+ },
+ {
+  "id": 458,
+  "True": "Amy's skin was dry during the Winter so she decided to put some lotion on.",
+  "False": "Amy's skin was dry during the Winter so she decided to put some sunscreen on."
+ },
+ {
+  "id": 459,
+  "True": "After they go to school, Jay's mother makes her sibling finish their homework that is assigned that day. ",
+  "False": "Before they go to school, Jay's mother makes her sibling finish their homework that is assigned that day. "
+ },
+ {
+  "id": 460,
+  "True": "Because of the current pandemic, James refuses to go over to his friend's house.",
+  "False": "Because of the current pandemic, James often goes over to his friend's house."
+ },
+ {
+  "id": 461,
+  "True": "James decided to let Cynthia know she looked narrow in her outfit",
+  "False": "James decided to let Cynthia know she looked wide in her outfit"
+ },
+ {
+  "id": 462,
+  "True": "You should have a spare tire to use in case your tire goes flat.",
+  "False": "You should have a spare battery to use in case your tire goes flat."
+ },
+ {
+  "id": 463,
+  "True": "Jenny organized a car wash that raised $800 for her school's drama club. Her teacher was proud of her.",
+  "False": "Jenny organized a car wash that didn't raise any money for her school's drama club. Her teacher was proud of her."
+ },
+ {
+  "id": 464,
+  "True": "Since it's a leap year, we have an extra day this year.",
+  "False": "Since it's not a leap year, we have an extra day this year."
+ },
+ {
+  "id": 465,
+  "True": "Lisa needed to submit her paper in a month, so she had plenty of time to do research. ",
+  "False": "Lisa needed to submit her paper in a day, so she had plenty of time to do research. "
+ },
+ {
+  "id": 466,
+  "True": "If the car is going fast enough before crashing, the crash test dummy will penetrate the windshield.",
+  "False": "If the car is going slowly before crashing, the crash test dummy will penetrate the windshield."
+ },
+ {
+  "id": 467,
+  "True": "If you are in charge of taking care of a park and want to keep it clean, you should make sure it has dozens of garbage cans.",
+  "False": "If you are in charge of taking care of a park and want to keep it clean, you should make sure it has two garbage cans."
+ },
+ {
+  "id": 468,
+  "True": "With her Study Abroad opportunity cancelled for next year, Tracey decided to renew her lease.",
+  "False": "With her Study Abroad opportunity approved for next year, Tracey decided to renew her lease."
+ },
+ {
+  "id": 469,
+  "True": "If I am both tired and hungry at work and I have an hour lunch break, I would want to sleep for half an hour instead of a full hour so I can still eat lunch.",
+  "False": "If I am both tired and hungry at work and I have an hour lunch break, I would want to sleep for a full hour instead of half an hour so I can still eat lunch."
+ },
+ {
+  "id": 470,
+  "True": "His carefully planned-out day was ruined when his train arrived three hours late.",
+  "False": "His carefully planned-out day was ruined when his train arrived three minutes late."
+ },
+ {
+  "id": 471,
+  "True": "If the land is heated, it will create an area of low pressure near the land.",
+  "False": "If the land is heated, it will create an area of high pressure near the land."
+ },
+ {
+  "id": 472,
+  "True": "If it is dark outside, a flashlight will help you see.",
+  "False": "If it is bright outside, a flashlight will help you see."
+ },
+ {
+  "id": 473,
+  "True": "Toilet paper becomes more expensive when there is a pandemic.",
+  "False": "Toilet paper goes on sale when there is a pandemic."
+ },
+ {
+  "id": 474,
+  "True": "Brad went to sleep at 4pm, so he missed the overnight meteor shower. ",
+  "False": "Brad went to sleep at 4pm, so he saw the overnight meteor shower. "
+ },
+ {
+  "id": 475,
+  "True": "Joan secretly admired Peter. She was disappointed to find out he has a girlfriend.",
+  "False": "Joan secretly admired Peter. She was delighted to find out he has a girlfriend."
+ },
+ {
+  "id": 476,
+  "True": "I ran the red light and got a ticket from a police officer.",
+  "False": "I ran the red light and got a ticket from a hockey player."
+ },
+ {
+  "id": 477,
+  "True": "If the new Super Hero movie premieres at 7 pm tonight, I will have to be ready a few minutes before to see it.",
+  "False": "If the new Super Hero movie premieres at 7 pm tonight, I will have to be ready by 8 pm to see it."
+ },
+ {
+  "id": 478,
+  "True": "If you are trying to hide a kitchen chair, you can always put it inside of a bush.",
+  "False": "If you are trying to hide a kitchen chair, you can always put it inside of the stove."
+ },
+ {
+  "id": 479,
+  "True": "Everyone looked at Kevin in disgust because he slammed the weights on the floor in the gym.",
+  "False": "Everyone looked at Kevin in awe because he slammed the weights on the floor in the gym."
+ },
+ {
+  "id": 480,
+  "True": "If I would like to become a professional musician, I could purchase a piano with eighty-eight keys.",
+  "False": "If I would like to become a professional musician, I could purchase a piano with seven keys."
+ },
+ {
+  "id": 481,
+  "True": "We will leave as soon as this sitcom is over, so be ready in 30 minutes",
+  "False": "We will leave as soon as this sitcom is over, so be ready in 3 hours."
+ },
+ {
+  "id": 482,
+  "True": "Peter's daughters is going to marry next week, he booked a wedding hall for that purpose.",
+  "False": "Peter's daughters is going to marry next week, he booked a cemetary for that purpose."
+ },
+ {
+  "id": 483,
+  "True": "When I'm attending school for 10 hours a day, I then have 2 hours to do my homework.",
+  "False": "When I'm attending school for 10 hours a day, I then have 14 hours to do my homework."
+ },
+ {
+  "id": 484,
+  "True": "John wanted to becomea scientist as hewas very good in science.",
+  "False": "John wanted to becomea scientist as hewas very poor in science."
+ },
+ {
+  "id": 485,
+  "True": "As a self-admitted alcoholic and AA member, Tom avoids drinking in all circumstances per AA doctrine.",
+  "False": "As a self-admitted alcoholic and AA member, Tom drinks only water and wine per AA doctrine."
+ },
+ {
+  "id": 486,
+  "True": "If you don't have a cup, you can use a dipper to drink water out of.",
+  "False": "If you don't have a cup, you can use a spoon to drink water out of."
+ },
+ {
+  "id": 487,
+  "True": "Paul called a taxi at 5 pm to get to a party 3 miles away from his place at 6 pm.",
+  "False": "Paul called a taxi at 5 pm to get to a next door neighbor's party at 6 pm."
+ },
+ {
+  "id": 488,
+  "True": "If you are going to take a long trip to Florida, it is best to go during summer break so that the kids don't miss school.",
+  "False": "If you are going to take a long trip to Florida, it is best to go during summer break so that the kids will miss school."
+ },
+ {
+  "id": 489,
+  "True": "If his shoulder is sore, lifting heavy weights may make it worse.",
+  "False": "If his shoulder is sore, lifting heavy weights may make it better."
+ },
+ {
+  "id": 490,
+  "True": "Because he played ping pong for two hours without stopping, he is thirsty.",
+  "False": "Because he played ping pong for one minute without stopping, he is thirsty."
+ },
+ {
+  "id": 491,
+  "True": "As Harry got injured he rushed to the hospital for help",
+  "False": "As Harry got engaged he rushed to the hospital for help"
+ },
+ {
+  "id": 492,
+  "True": "Timmy gets offended easily, is quick to anger, and often insults people for no particular reason, so he makes new friends slowly.",
+  "False": "Timmy gets offended easily, is quick to anger, and often insults people for no particular reason, so he makes new friends quickly."
+ },
+ {
+  "id": 493,
+  "True": "If the wood on the balcony is rotten, it is not a good idea to put a table on it that weighs 500 lbs.",
+  "False": "If the wood on the balcony is rotten, it is a good idea to put a table on it that weighs 500 lbs."
+ },
+ {
+  "id": 494,
+  "True": "Frank wanted to cool off the pie, so he put it in the fridge. ",
+  "False": "Frank wanted to cool off the pie, so he put it in the hot oven. "
+ },
+ {
+  "id": 495,
+  "True": "If you put a cover on your pool there will be less chance for leaves to get in it.",
+  "False": "If you do not put a cover on your pool there will be less chance for leaves to get in it."
+ },
+ {
+  "id": 496,
+  "True": "If the train journey to the destination takes 45 minutes, it is not likely that we will be at our destination in 25 minutes.",
+  "False": "If the train journey to the destination takes 45 minutes, it is likely that we will be at our destination in 25 minutes."
+ },
+ {
+  "id": 497,
+  "True": "Jill has read all the books on fixing bikes so Jane is likely to bring a broken bike to her. ",
+  "False": "Jill has read all the books on fixing bikes so Jane is unlikely to bring a broken bike to her. "
+ },
+ {
+  "id": 498,
+  "True": "Peter enjoys speed so he is unlikely to drive mostly in the fast lane on highways.",
+  "False": "Peter enjoys speed so he is likely to drive mostly in the fast lane on highways."
+ },
+ {
+  "id": 499,
+  "True": "Once a child has teeth, they will eat tougher foods.",
+  "False": "Once a child has teeth, they will eat softer foods."
+ },
+ {
+  "id": 500,
+  "True": "As a visually impaired person, I've always found it difficult to see, so having a very illuminated television screen works best for me.",
+  "False": "As a visually impaired person, I've always found it difficult to see, so having a very dim television screen works best for me."
+ },
+ {
+  "id": 501,
+  "True": "If someone throws a ball to another person, the other person should try and catch the ball.",
+  "False": "If someone throws a ball to another person, the other person should try and drop the ball."
+ },
+ {
+  "id": 502,
+  "True": "When the commercials start I can go get a snack.",
+  "False": "When the commercials start I can not go get a snack."
+ },
+ {
+  "id": 503,
+  "True": "It requires more effort to finish a work in half time.",
+  "False": "It requires less effort to finish a work in half time"
+ },
+ {
+  "id": 504,
+  "True": "John had to drive at noon, so he was sure to wear his sunglasses.",
+  "False": "John had to drive at midnight, so he was sure to wear his sunglasses."
+ },
+ {
+  "id": 505,
+  "True": "Before stepping out, Jack has to check if he has mask because they are mandatory in most places",
+  "False": "Before stepping out, Jack has to check if he left mask at home because they are not in trend and he doesn't want to wear it"
+ },
+ {
+  "id": 506,
+  "True": "I made a quick stop for gas to fill up my mostly full truck and paid 10 dollars for it.",
+  "False": "I made a quick stop for gas to fill up my mostly empty truck and paid 10 dollars for it."
+ },
+ {
+  "id": 507,
+  "True": "Jack is willing to let the customer standing behind him go first to the cashier as she is pregnant.",
+  "False": "Jack prefers not to let the customer standing behind him go first to the cashier as she is pregnant."
+ },
+ {
+  "id": 508,
+  "True": "All of Jim's classmates liked him because he beat up the kid in the wheelchair.",
+  "False": "None of Jim's classmates liked him because he beat up the kid in the wheelchair."
+ },
+ {
+  "id": 509,
+  "True": "Since summer was coming up, Stan got to wear shorts again.",
+  "False": "Since autumn was coming up, Stan got to wear shorts again."
+ },
+ {
+  "id": 510,
+  "True": "Maxwell running very fastly to the office, because he dont have enough time to reach there",
+  "False": "Maxwell running very fastly to the office, because he has enough time to reach there"
+ },
+ {
+  "id": 511,
+  "True": "This pro league game broke out in a absolute players brawl after a bad call",
+  "False": "This little league game broke out in a absolute players brawl after a bad call"
+ },
+ {
+  "id": 512,
+  "True": "I had to leave quickly while robbing that home because the owner came home early.",
+  "False": "I had plenty of time to rob that home when the owner suddenly came home early."
+ },
+ {
+  "id": 513,
+  "True": "Bob lost all of his money gambling on blackjack 3 weeks ago, he's still upset.",
+  "False": "Bob lost all of his money gambling on blackjack 10 years ago, he's still upset."
+ },
+ {
+  "id": 514,
+  "True": "It is possible that smoking cigarettes can cause lung cancer.",
+  "False": "It is not possible that smoking cigarettes can cause lung cancer."
+ },
+ {
+  "id": 515,
+  "True": "When transporting a small fragile glass, it is easier for ten people to help carry it.",
+  "False": "When transporting a small fragile glass, it is easier for one person to carry it."
+ },
+ {
+  "id": 516,
+  "True": "Having only ran a maximum of one hundred meters before, he was apprehensive about running a kilometer.",
+  "False": "Having only ran a maximum of one hundred meters before, he was confident about running a kilometer."
+ },
+ {
+  "id": 517,
+  "True": "Ron wanted more consistent income so he bought an apartment complex.",
+  "False": "Ron wanted more consistent income so he bought a stock."
+ },
+ {
+  "id": 518,
+  "True": "If you are outside during the storm, you need to shelter somewhere",
+  "False": "If you are outside during the storm, you need to stand under the tree"
+ },
+ {
+  "id": 519,
+  "True": "I couldn't find a hammer, so I used a steel block to drive the nail.",
+  "False": "I couldn't find a hammer, so I used a pillow to drive the nail."
+ },
+ {
+  "id": 520,
+  "True": "There was a car accident on the freeway, and Mary lives a block away from her work, so her commute won't take her longer than normal.",
+  "False": "There was a car accident on the freeway, and Mary lives a block away from her work, so her commute will take her longer than normal."
+ },
+ {
+  "id": 521,
+  "True": "If Tim's recipe calls for a half dozen eggs but he only has two eggs, he needs to buy a third of a dozen more eggs.",
+  "False": "If Tim's recipe calls for a half dozen eggs but he only has two eggs, he needs to buy a half of a dozen more eggs."
+ },
+ {
+  "id": 522,
+  "True": "A chair is more likely to break with 3 people sitting in it than 1 person.",
+  "False": "A chair is less likely to break with 3 people sitting in it than 1 person."
+ },
+ {
+  "id": 523,
+  "True": "If the tables in a restaurant seat six people, a family of four can comfortably be seated at the table. ",
+  "False": "If the tables in a restaurant seat six people, a soccer team consisting of thirteen players can be seated at two tables."
+ },
+ {
+  "id": 524,
+  "True": "If there is a hurricane in your area, it is not safe to walk around outside.",
+  "False": "If there is a hurricane in your area, it is safe to walk around outside."
+ },
+ {
+  "id": 525,
+  "True": "Since Megan was a vegetarian, she refused to eat a hamburger. ",
+  "False": "Since Megan was a vegetarian, she refused to eat a cucumber. "
+ },
+ {
+  "id": 526,
+  "True": "Her flight leaves in 3 hours, so she's planning on taking 20 minutes to get to the airport by taxi.",
+  "False": "Her flight leaves in 3 hours, so she's planning on taking 3 hours to get to the airport by bicycle."
+ },
+ {
+  "id": 527,
+  "True": "If my pen runs out of ink, I can use my lipstick to take notes instead.",
+  "False": "If my pen runs out of ink, I can use my comb to take notes instead."
+ },
+ {
+  "id": 528,
+  "True": "Helen wears a size 4 so Leanne who wears a size 6 probably can't fit into Helen's jeans.",
+  "False": "Helen wears a size 8 so Leanne who wears a size 6 probably can't fit into Helen's jeans."
+ },
+ {
+  "id": 529,
+  "True": "Shivani binge watches her show on Saturday nights so she can sleep all day on Sunday.",
+  "False": "Shivani binge watches her show on Saturday nights so she can wake up early on Sunday."
+ },
+ {
+  "id": 530,
+  "True": "John knew that the accident was going to slow down his commute by 10 minutes so he planned to leave 15 minutes earlier to ensure he'd be on time.",
+  "False": "John knew that the accident was going to slow down his commute by 10 minutes so he planned to 5 minutes earlier to ensure he'd be on time."
+ },
+ {
+  "id": 531,
+  "True": "Sean had thirty minutes for a lunch break so he ordered a carry-out sandwich.",
+  "False": "Sean had thirty minutes for a lunch break so he ordered a three-course meal."
+ },
+ {
+  "id": 532,
+  "True": "He had misplaced his keys so he had to break the lock",
+  "False": "He had found his keys so he had to break the lock"
+ },
+ {
+  "id": 533,
+  "True": "when walking on hot sand you should not be wearing socks",
+  "False": "when walking on hot sand you should be wearing socks"
+ },
+ {
+  "id": 534,
+  "True": "If I borrow a book from a friend and don't return it, she will be unlikely to lend me anything again.",
+  "False": "If I borrow a book from a friend and return it, she will unlikely to lend me anything again."
+ },
+ {
+  "id": 535,
+  "True": "Not expecting the morning meeting to last five hours, she made an early lunch reservation.",
+  "False": "Expecting the morning meeting to last five hours, she made an early lunch reservation.  "
+ },
+ {
+  "id": 536,
+  "True": "Kendra felt nervous because she was about to go into a bar for the first time.",
+  "False": "Kendra felt nervous because she was about to go into a bar for the tenth time."
+ },
+ {
+  "id": 537,
+  "True": "She used her two hour commute to grade her students' papers.",
+  "False": "She used her two minute commute to grade her students' papers."
+ },
+ {
+  "id": 538,
+  "True": "Danny served three years in prison for carjacking. His neighbors would probably not entrust Danny with their cash.",
+  "False": "Danny served three years in prison for carjacking. His neighbors would probably entrust Danny with their cash."
+ },
+ {
+  "id": 539,
+  "True": "Tara went on a walk with her dog that usually takes sixty minutes, so it is likely she will not be home for at least one hour.",
+  "False": "Tara went on a walk with her dog that usually takes sixty minutes, so it is likely she will not be home for at least five hours."
+ },
+ {
+  "id": 540,
+  "True": "While I have seasick, I feel better by eating sour food.",
+  "False": "While I have seasick, I feel better by eating salty food."
+ },
+ {
+  "id": 541,
+  "True": "Since I work from 7 am to 7 pm, I find it difficult to visit a bank.",
+  "False": "Since I work from 7 pm to 7 am, I find it difficult to visit a bank."
+ },
+ {
+  "id": 542,
+  "True": "Kelly always loved science class. Since she mostly got 80’s and 90’s on her tests, she frequently made the honor roll. ",
+  "False": "Kelly always loved science class. Since she mostly got 50’s and 60’s on her tests, she frequently made the honor roll. "
+ },
+ {
+  "id": 543,
+  "True": "There is no snow on the mountain, so we cannot snowboard down it.",
+  "False": "Since there is snow in the mountains, we cannot snowboard down it."
+ },
+ {
+  "id": 544,
+  "True": "Billy works at cubicle in an office, while Joey works as a mason, so Joey will be more physically exhausted at the end of his workday than Billy.",
+  "False": "Billy works at cubicle in an office, while Joey works as a mason, so Joey will be more physically exhausted at the end of his workday than Billy."
+ },
+ {
+  "id": 545,
+  "True": "Pam's friend will pick her up in 5 minutes, so she should walk her dog later.",
+  "False": "Pam's friend will pick her up in 5 minutes, so she should walk her dog now."
+ },
+ {
+  "id": 546,
+  "True": "Jim had a school exam, so he learned a lot before the exam.",
+  "False": "Jim had a school exam, so he learned a lot after the exam."
+ },
+ {
+  "id": 547,
+  "True": "a fire ant can carry up to 100 times its weight so it definetely can not carry two human beings ",
+  "False": "a fire ant can carry up to 100 times its weight so it definetely can carry 101 insects of its species"
+ },
+ {
+  "id": 548,
+  "True": "If you beat a campfire with a spoon, you won't put it out.",
+  "False": "If you beat a campfire with a spoon, you will put it out."
+ },
+ {
+  "id": 549,
+  "True": "The bus comes every 20 minutes, so he plans to wait at max 20 minutes to catch the next one.",
+  "False": "The bus comes every 20 minutes, so he plans to wait at max 1 hour to catch the next one."
+ },
+ {
+  "id": 550,
+  "True": "The cat drank water from the running hose.",
+  "False": "The cat drank water from the detached hose."
+ },
+ {
+  "id": 551,
+  "True": "The crowd was large, so it was hard to get the moderator's attention.",
+  "False": "The crowd was large, so it was easy to get the moderator's attention."
+ },
+ {
+  "id": 552,
+  "True": "Since I want to improve my golf game, I spend 2 hours on the course every day.",
+  "False": "Since I want to improve my golf game, I spend 200 minutes on the course every decade."
+ },
+ {
+  "id": 553,
+  "True": "Gabriel forgot his sleeping bag for the camping trip, so he can sleep in the car. ",
+  "False": "Gabriel forgot his sleeping bag for the camping trip, so he can sleep by the river. "
+ },
+ {
+  "id": 554,
+  "True": "Because he can carry the dining table himself, it should be easy for him to lift a dining chair.",
+  "False": "Because he cannot carry the dining table himself, it should be easy for him to lift a dining chair."
+ },
+ {
+  "id": 555,
+  "True": "Because dinner is in an hour I will start cooking in a few minutes.",
+  "False": "Because dinner is in an hour I will start cooking in a few hours."
+ },
+ {
+  "id": 556,
+  "True": "If it is hot outside, opening the windows will not cool you down.",
+  "False": "If it is hot outside, opening the windows will cool you down."
+ },
+ {
+  "id": 557,
+  "True": "Spring was coming up so Jim thought it would be good to buy some sandals.",
+  "False": "Fall was coming up so Jim thought it would be good to buy some sandals."
+ },
+ {
+  "id": 558,
+  "True": "The number of biological children a 50-year-old woman has is very unlikely to increase.",
+  "False": "The number of foster children a 50-year-old woman has is very unlikely to increase."
+ },
+ {
+  "id": 559,
+  "True": "Tasha usually ran a mile and showered in the morning before her work at 9 am, so she left for run at 8 am. ",
+  "False": "Tasha usually ran a mile and showered in the morning before her work at 9 am, so she left for run at 8:40 am. "
+ },
+ {
+  "id": 560,
+  "True": "Since the baseball game starts at 7 pm, there will probably be fireworks afterward.",
+  "False": "Since the baseball game starts at 1 pm, there will probably be fireworks afterward."
+ },
+ {
+  "id": 561,
+  "True": "Jason, who has 100 friends, had an easy time finding a ride home from the party.",
+  "False": "Jason, who has no friends, had an easy time finding a ride home from the party."
+ },
+ {
+  "id": 562,
+  "True": "If it is a sunny day, you should sit in the shade to avoid sunburn.",
+  "False": "If it is a snowy day, you should sit in the shade to avoid sunburn."
+ },
+ {
+  "id": 563,
+  "True": "The ten-to-one ratio of students to teachers was ideal.",
+  "False": "The ten-to-one ratio of teachers to students was ideal."
+ },
+ {
+  "id": 564,
+  "True": "With a family income of more than one hundred thousand dollars, they can afford a modest home in a middle class neighborhood.",
+  "False": "With a family income of more than one hundred thousand dollars, they cannot afford a modest home in a middle class neighborhood."
+ },
+ {
+  "id": 565,
+  "True": "If a person reads 30 pages every day and book has 300 pages, with one day break from reading, person will finish the book in 11 days",
+  "False": "If a person reads 30 pages every day and book has 300 pages, with one week break from reading, person will finish the book in 16 days"
+ },
+ {
+  "id": 566,
+  "True": "Since the store samples are free, the store owner would worry if you take entire samples for testing.",
+  "False": "Since the store samples are free, the store owner would not mind if you take entire samples for testing."
+ },
+ {
+  "id": 567,
+  "True": "For a science project, I decided to surround an egg with styrofoam so that it would be protected when I dropped it from a height.",
+  "False": "For a science project, I decided to surround an egg with glass so that it would be protected when I dropped it from a height."
+ },
+ {
+  "id": 568,
+  "True": "While in a windy rainstorm, you should always point your umbrella into the wind.",
+  "False": "While in a windy rainstorm, you should always point your umbrella away from the wind."
+ },
+ {
+  "id": 569,
+  "True": "Since my dog doesn't shed, her fur is rarely on my clothes.",
+  "False": "Since my dog doesn't shed, her fur is often on my clothes."
+ },
+ {
+  "id": 570,
+  "True": "To cover the risk of accidental damages, he purchased an insurance policy.",
+  "False": "To cover the risk of accidental damages, he opened a bank account."
+ },
+ {
+  "id": 571,
+  "True": "Mark gets pulled over for speeding on his way to the hospital.  The officer may not ticket him if Mark explains that his wife is in Labor.",
+  "False": "Mark gets pulled over for speeding on his way to the hospital.  The officer may not ticket him if Mark explains that he is taking lunch to a friend."
+ },
+ {
+  "id": 572,
+  "True": "Marcie has several houseplants, and she makes sure to water them about once or twice a week.",
+  "False": "Marcie has several houseplants, and she makes sure to water about once or twice a year."
+ },
+ {
+  "id": 573,
+  "True": "If I do not want to miss an important piece of mail that I need to respond to the next day, I should check my mailbox once per day at the very least.",
+  "False": "If I do not want to miss an important piece of mail that I need to respond to the next day, I should check my mailbox once per hour at the very least."
+ },
+ {
+  "id": 574,
+  "True": "Anita was furious when Robert spilled cranberry juice on her expensive white rug because it stains badly. ",
+  "False": "Anita was furious when Robert spilled water on her expensive white rug because it stains badly. "
+ },
+ {
+  "id": 575,
+  "True": "Tim was happy that May was coming up since he'd have a lot of time off from school.",
+  "False": "Tim was happy that November was coming up since he'd have a lot of time off from school."
+ },
+ {
+  "id": 576,
+  "True": "You can not grill a steak by putting it in the fridge.",
+  "False": "You can grill a steak by putting it in the fridge."
+ },
+ {
+  "id": 577,
+  "True": "If you use digital for your music collection, you will save a lot of storage space in your home.",
+  "False": "If you use records for your music collection, you will save a lot of storage space in your home."
+ },
+ {
+  "id": 578,
+  "True": "It is safe to walk on the ice if it is 12 inches thick",
+  "False": "It is safe to walk on the ice if it is an inches thick"
+ },
+ {
+  "id": 579,
+  "True": "Jack wanted a utensil that was more sustainable to he bought a hemp straw.",
+  "False": "Jack wanted a utensil that was more sustainable to he bought a plastic straw."
+ },
+ {
+  "id": 580,
+  "True": "Because Michelle's audition is in Los Angeles early tomorrow morning, she will fly from New York to Los Angeles today.",
+  "False": "Because Michelle's audition is in Los Angeles early tomorrow morning, she will drive from New York to Los Angeles today."
+ },
+ {
+  "id": 581,
+  "True": "When Bob wanted to play with his cat he used a piece of string.",
+  "False": "When Bob wanted to play with his cat he used a board game."
+ },
+ {
+  "id": 582,
+  "True": "Jennifer is very tall, so she has trouble finding a suitable romantic partner. ",
+  "False": "Jennifer is very tall, so she has no issue finding a suitable romantic partner. "
+ },
+ {
+  "id": 583,
+  "True": "Jerry invited me to his wedding ceremony, I went there with bunch of flowers and wearing my best suit.",
+  "False": "Jerry invited me to his wedding ceremony, I went there with bunch of cactus and wearing nothing but underpants."
+ },
+ {
+  "id": 584,
+  "True": "If I shave my head today, I'll have a foot of hair growth by next year.",
+  "False": "If I shave my head today, I'll have a foot of hair growth by tomorrow."
+ },
+ {
+  "id": 585,
+  "True": "If he lost two of the fingers in his right hand in an accident 2 years ago, he would not have 10 fingers  today.",
+  "False": "If he lost two of the fingers in his right hand in an accident 2 years ago, he would still have 10 fingers today."
+ },
+ {
+  "id": 586,
+  "True": "Due to the heavy rain in the last four days, the stadium were flooded with water",
+  "False": "Due to the heavy rain in the last four days, the stadium were flooded with ice"
+ },
+ {
+  "id": 587,
+  "True": "Diane feels unsafe in her new apartment, so she buys a big dog to guard her house.",
+  "False": "Diane feels unsafe in her new apartment, so she buys a small dog to guard her house."
+ },
+ {
+  "id": 588,
+  "True": "You just ran out of coffee filters, so you can use a paper towel as a substitute.",
+  "False": "You just ran out of coffee filters, so you can use a laminated paper as a substitute."
+ },
+ {
+  "id": 589,
+  "True": "To leave for a 9pm movie show, Rajesh must finish his dinner by 8:30pm to reach on time.",
+  "False": "To leave for a 9pm movie show, Rajesh must finish his dinner by 9pm to reach on time."
+ },
+ {
+  "id": 590,
+  "True": "Phil was in a hurry to get to work but he was afraid of another speeding ticket so he drove safely.",
+  "False": "Phil was in a hurry to get to work but he was afraid of another speeding ticket so he drove dangerously."
+ },
+ {
+  "id": 591,
+  "True": "The college coach had been paying his players so he was criticized by the media.",
+  "False": "The college coach had been paying his players so he was praised by the media."
+ },
+ {
+  "id": 592,
+  "True": "As the exam is postponed, he will  allot lesser time per day for his studies.",
+  "False": "As the exam is postponed, he will  allot more time per day for his studies."
+ },
+ {
+  "id": 593,
+  "True": "Since I was meeting my friend for lunch, I parked in a spot with a two hour time limit.",
+  "False": "Since I was meeting my friend for lunch and a movie, I parked in a spot with a two hour time limit."
+ },
+ {
+  "id": 594,
+  "True": "Frank wanted a soft boiled egg so he put the egg in boiling water and while he waited he decided to listen to music rather than read a novel.",
+  "False": "Frank wanted a soft boiled egg so he put the egg in boiling water and while he waited he decided to read a novel rather than listen to music."
+ },
+ {
+  "id": 595,
+  "True": "If my friends and I are outside with a backpack full of popsicles and baseball equipment, we should eat the popsicles first and play baseball for a couple of hours afterwards.",
+  "False": "If my friends and I are outside with a backpack full of popsicles and baseball equipment, we should play baseball for a couple of hours first and eat the popsicles afterwards."
+ },
+ {
+  "id": 596,
+  "True": "Frank saved up one hundred dollars, he can't afford a new car",
+  "False": "Frank saved up one hundred dollars, he can afford a new car."
+ },
+ {
+  "id": 597,
+  "True": "Having had a late lunch I decided to move my dinner reservation back two hours.",
+  "False": "Having had a late lunch I decided to move my dinner reservation up two hours."
+ },
+ {
+  "id": 598,
+  "True": "Since I bump my head in my bathroom's doorway, I should consider raising it.",
+  "False": "Since I bump my head in my bathroom's doorway, I should consider lowering it."
+ },
+ {
+  "id": 599,
+  "True": "Adam invited his girlfriend to meet his parents, she brought her parents along with her..",
+  "False": "Adam invited his girlfriend to meet his parents, she brought her neighbors along with her."
+ }
+]
